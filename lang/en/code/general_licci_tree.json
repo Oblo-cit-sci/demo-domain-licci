@@ -1,0 +1,3113 @@
+{
+  "title": "General LICCI Tree",
+  "values": {
+    "levels": [
+      {
+        "text": "System",
+        "description": "Select the system in which the change/impact occurred"
+      },
+      {
+        "text": "Subsystem",
+        "description": "Select one of these subsystems to categorize the observation. Changes in..."
+      },
+      {
+        "text": "Climate change impact",
+        "description": "Select the specific impact that best classifies your observation/change"
+      },
+      {
+        "text": "Direction of change",
+        "description": "Select a direction for the change"
+      }
+    ],
+    "root": {
+      "text": "30112020_Final simplified LICCI_en",
+      "children": [
+        {
+          "text": "Climatic",
+          "description": "LICCIs related to temperature, rain, droughts, clouds, humidity storms and the seasons.",
+          "children": [
+            {
+              "text": "Temperature",
+              "children": [
+                {
+                  "text": "annual mean",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    },
+                    {
+                      "text": "decrease in variation"
+                    },
+                    {
+                      "text": "increase in variation"
+                    }
+                  ]
+                },
+                {
+                  "text": "during the night",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "during the day",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "along different altitudes",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "unusual in a given season",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "mean in a given season",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "extreme hot / cold days",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "hot / warm days",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "cold days",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "heat waves",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "cold waves",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "sunny days",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "sunshine",
+                  "children": [
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Rainfall, snowfall and sleet",
+              "children": [
+                {
+                  "text": "rainfall",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    },
+                    {
+                      "text": "decrease in variation"
+                    },
+                    {
+                      "text": "increase in variation"
+                    },
+                    {
+                      "text": "decrease in predictability"
+                    },
+                    {
+                      "text": "increase in predictability"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    },
+                    {
+                      "text": "earlier rainfall"
+                    },
+                    {
+                      "text": "later rainfall"
+                    },
+                    {
+                      "text": "change in spatial distribution",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "rainfall in a given season",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    },
+                    {
+                      "text": "decrease in variation"
+                    },
+                    {
+                      "text": "increase in variation"
+                    }
+                  ]
+                },
+                {
+                  "text": "rainfall water",
+                  "children": [
+                    {
+                      "text": "decrease in temperature"
+                    },
+                    {
+                      "text": "increase in temperature"
+                    }
+                  ]
+                },
+                {
+                  "text": "rainy days",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "heavy rainfall events",
+                  "children": [
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    },
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "flash floods",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "wet spells",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "dry spells",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "years without any rainfall",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "drought",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "snowfall",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    },
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in variation"
+                    },
+                    {
+                      "text": "increase in variation"
+                    },
+                    {
+                      "text": "earlier snowfall"
+                    },
+                    {
+                      "text": "later snowfall"
+                    },
+                    {
+                      "text": "change in spatial distribution",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "sleet or freezing rain",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    },
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in variation"
+                    },
+                    {
+                      "text": "increase in variation"
+                    },
+                    {
+                      "text": "earlier sleet or freezing rain"
+                    },
+                    {
+                      "text": "later sleet or freezing rain"
+                    },
+                    {
+                      "text": "change in spatial distribution",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Clouds, fog, dew and frost",
+              "children": [
+                {
+                  "text": "clouds",
+                  "children": [
+                    {
+                      "text": "decrease in thickness"
+                    },
+                    {
+                      "text": "increase in thickness"
+                    },
+                    {
+                      "text": "decrease in size"
+                    },
+                    {
+                      "text": "increase in size"
+                    },
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    },
+                    {
+                      "text": "change in colour",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "cloudy days",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "fog",
+                  "children": [
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    },
+                    {
+                      "text": "decrease in thickness"
+                    },
+                    {
+                      "text": "increase in thickness"
+                    }
+                  ]
+                },
+                {
+                  "text": "foggy days",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "air moisture/humidity",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "dew",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "days with dew",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "frost",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    },
+                    {
+                      "text": "earlier frost"
+                    },
+                    {
+                      "text": "later frost"
+                    }
+                  ]
+                },
+                {
+                  "text": "frosty days",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Winds and storms",
+              "children": [
+                {
+                  "text": "wind characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in strength"
+                    },
+                    {
+                      "text": "increase in strength"
+                    },
+                    {
+                      "text": "change in direction",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in temperature"
+                    },
+                    {
+                      "text": "increase in temperature"
+                    }
+                  ]
+                },
+                {
+                  "text": "wind events",
+                  "children": [
+                    {
+                      "text": "earlier wind events"
+                    },
+                    {
+                      "text": "later wind events"
+                    }
+                  ]
+                },
+                {
+                  "text": "windy days",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "storms (in general)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "wind storms",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "lightning and thundering",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "electric storms",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "hail storms",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "sand or dust storms",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Cyclones and tornados",
+              "children": [
+                {
+                  "text": "cyclones",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "tornados",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Seasons",
+              "children": [
+                {
+                  "text": "season characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    },
+                    {
+                      "text": "earlier season"
+                    },
+                    {
+                      "text": "later season"
+                    },
+                    {
+                      "text": "change in transition",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "extreme hot seasons",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "extreme cold seasons",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Physical",
+          "description": "LICCIs related to the oceans and seas, coasts, lakes, land, earthquakes, snow and ice.",
+          "children": [
+            {
+              "text": "Oceans and seas",
+              "children": [
+                {
+                  "text": "sea level",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "general water characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in temperature"
+                    },
+                    {
+                      "text": "increase in temperature"
+                    },
+                    {
+                      "text": "decrease in salinity"
+                    },
+                    {
+                      "text": "increase in salinity"
+                    },
+                    {
+                      "text": "decrease in quality"
+                    },
+                    {
+                      "text": "increase in quality"
+                    },
+                    {
+                      "text": "decrease in availability"
+                    },
+                    {
+                      "text": "increase in availability"
+                    },
+                    {
+                      "text": "decrease in pollution"
+                    },
+                    {
+                      "text": "increase in pollution"
+                    },
+                    {
+                      "text": "decrease in transparency"
+                    },
+                    {
+                      "text": "increase in transparency"
+                    },
+                    {
+                      "text": "change in taste",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "water characteristics in a given season",
+                  "children": [
+                    {
+                      "text": "decrease in temperature"
+                    },
+                    {
+                      "text": "increase in temperature"
+                    }
+                  ]
+                },
+                {
+                  "text": "waves",
+                  "children": [
+                    {
+                      "text": "decrease in size"
+                    },
+                    {
+                      "text": "increase in size"
+                    }
+                  ]
+                },
+                {
+                  "text": "tides",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "coastal flooding",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "currents",
+                  "children": [
+                    {
+                      "text": "decrease in strength"
+                    },
+                    {
+                      "text": "increase in strength"
+                    },
+                    {
+                      "text": "change in direction",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Coasts",
+              "children": [
+                {
+                  "text": "soil sedimentation",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "soil erosion",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "soil structure",
+                  "children": [
+                    {
+                      "text": "change in structure",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Rivers / Streams",
+              "children": [
+                {
+                  "text": "general water level",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "seasonal water level",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "water characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in temperature"
+                    },
+                    {
+                      "text": "increase in temperature"
+                    },
+                    {
+                      "text": "decrease in quality"
+                    },
+                    {
+                      "text": "increase in quality"
+                    },
+                    {
+                      "text": "decrease in availability"
+                    },
+                    {
+                      "text": "increase in availability"
+                    },
+                    {
+                      "text": "decrease in pollution"
+                    },
+                    {
+                      "text": "increase in pollution"
+                    },
+                    {
+                      "text": "decrease in transparency"
+                    },
+                    {
+                      "text": "increase in transparency"
+                    },
+                    {
+                      "text": "decrease in salinity"
+                    },
+                    {
+                      "text": "increase in salinity"
+                    },
+                    {
+                      "text": "change in taste",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "seasonal water level fluctuation",
+                  "children": [
+                    {
+                      "text": "earlier seasonal water level fluctuation"
+                    },
+                    {
+                      "text": "later seasonal water level fluctuation"
+                    },
+                    {
+                      "text": "decrease in speed"
+                    },
+                    {
+                      "text": "increase in speed"
+                    }
+                  ]
+                },
+                {
+                  "text": "number of rivers/streams",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "number of river pools",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Flooded areas / wetlands",
+              "children": [
+                {
+                  "text": "river/lake flood events",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "river flooded area",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    }
+                  ]
+                },
+                {
+                  "text": "lake flooded area",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    }
+                  ]
+                },
+                {
+                  "text": "wetland area",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Springs",
+              "children": [
+                {
+                  "text": "water flow",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "number of springs",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Lakes / ponds",
+              "children": [
+                {
+                  "text": "water level",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "water characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in temperature"
+                    },
+                    {
+                      "text": "increase in temperature"
+                    },
+                    {
+                      "text": "decrease in quality"
+                    },
+                    {
+                      "text": "increase in quality"
+                    },
+                    {
+                      "text": "decrease in availability"
+                    },
+                    {
+                      "text": "increase in availability"
+                    },
+                    {
+                      "text": "decrease in pollution"
+                    },
+                    {
+                      "text": "increase in pollution"
+                    },
+                    {
+                      "text": "decrease in transparency"
+                    },
+                    {
+                      "text": "increase in transparency"
+                    },
+                    {
+                      "text": "decrease in salinity"
+                    },
+                    {
+                      "text": "increase in salinity"
+                    },
+                    {
+                      "text": "change in taste",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "number of lakes/ponds",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "temporary lakes/ponds",
+                  "children": [
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "seasonal water level fluctuation",
+                  "children": [
+                    {
+                      "text": "earlier water level fluctuation"
+                    },
+                    {
+                      "text": "later water level fluctuation"
+                    },
+                    {
+                      "text": "decrease in speed"
+                    },
+                    {
+                      "text": "increase in speed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Underground waters",
+              "children": [
+                {
+                  "text": "phreatic level",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "aquifer recharge",
+                  "children": [
+                    {
+                      "text": "decrease in speed"
+                    },
+                    {
+                      "text": "increase in speed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "River / pond banks",
+              "children": [
+                {
+                  "text": "soil erosion",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    },
+                    {
+                      "text": "change in location",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "soil sedimentation",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    },
+                    {
+                      "text": "change in location",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Land and soil (inland)",
+              "children": [
+                {
+                  "text": "erosion caused by rain",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "erosion caused by wind",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "sedimentation",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "moisture/ humidity",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "water evaporation",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "water infiltration",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "soil characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in temperature"
+                    },
+                    {
+                      "text": "increase in temperature"
+                    },
+                    {
+                      "text": "decrease in degradation"
+                    },
+                    {
+                      "text": "increase in degradation"
+                    },
+                    {
+                      "text": "decrease in fertility"
+                    },
+                    {
+                      "text": "increase in fertility"
+                    },
+                    {
+                      "text": "decrease in productivity"
+                    },
+                    {
+                      "text": "increase in productivity"
+                    },
+                    {
+                      "text": "change in texture",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "living organism (biota) in the soil",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Landslides, earthquakes and tsunamis",
+              "children": [
+                {
+                  "text": "landslides",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "earthquakes",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                },
+                {
+                  "text": "tsunami",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Ice and snowcover",
+              "children": [
+                {
+                  "text": "permanent snowcover",
+                  "children": [
+                    {
+                      "text": "change in texture",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in depth"
+                    },
+                    {
+                      "text": "increase in depth"
+                    },
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    }
+                  ]
+                },
+                {
+                  "text": "temporary snowcover",
+                  "children": [
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "lake/river ice",
+                  "children": [
+                    {
+                      "text": "change in structure",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "change in texture",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in thickness"
+                    },
+                    {
+                      "text": "increase in thickness"
+                    },
+                    {
+                      "text": "decrease in melting"
+                    },
+                    {
+                      "text": "increase in melting"
+                    }
+                  ]
+                },
+                {
+                  "text": "sea-ice",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    },
+                    {
+                      "text": "decrease in thickness"
+                    },
+                    {
+                      "text": "increase in thickness"
+                    }
+                  ]
+                },
+                {
+                  "text": "glaciers",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    }
+                  ]
+                },
+                {
+                  "text": "icebergs",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    },
+                    {
+                      "text": "change in movement",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "permanent frozen soil",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    },
+                    {
+                      "text": "change in continuity",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in depth"
+                    },
+                    {
+                      "text": "increase in depth"
+                    },
+                    {
+                      "text": "decrease in melting"
+                    },
+                    {
+                      "text": "increase in melting"
+                    }
+                  ]
+                },
+                {
+                  "text": "freeze events",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "ice melting",
+                  "children": [
+                    {
+                      "text": "decrease in speed"
+                    },
+                    {
+                      "text": "increase in speed"
+                    },
+                    {
+                      "text": "earlier ice melting"
+                    },
+                    {
+                      "text": "later ice melting"
+                    }
+                  ]
+                },
+                {
+                  "text": "ice formation",
+                  "children": [
+                    {
+                      "text": "decrease in speed"
+                    },
+                    {
+                      "text": "increase in speed"
+                    },
+                    {
+                      "text": "earlier ice formation"
+                    },
+                    {
+                      "text": "later ice formation"
+                    }
+                  ]
+                },
+                {
+                  "text": "ice cover (in general)",
+                  "children": [
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    },
+                    {
+                      "text": "decrease in stability/resistence"
+                    },
+                    {
+                      "text": "increase in stability/resistence"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Biological",
+          "description": "LICCIs related to living beings (except human) and their environment.",
+          "children": [
+            {
+              "text": "Marine wild species",
+              "children": [
+                {
+                  "text": "species characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    },
+                    {
+                      "text": "change in composition",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "change in distribution",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in size"
+                    },
+                    {
+                      "text": "increase in size"
+                    },
+                    {
+                      "text": "decrease in mortality"
+                    },
+                    {
+                      "text": "increase in mortality"
+                    },
+                    {
+                      "text": "change in behaviour",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "change in taste",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in bleaching"
+                    },
+                    {
+                      "text": "increase in bleaching"
+                    }
+                  ]
+                },
+                {
+                  "text": "invasive species",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    }
+                  ]
+                },
+                {
+                  "text": "parasites",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "malformations",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "migration",
+                  "children": [
+                    {
+                      "text": "change in route",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "earlier migration"
+                    },
+                    {
+                      "text": "later migration"
+                    }
+                  ]
+                },
+                {
+                  "text": "eggs, pups, offspring",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "mating/reproduction",
+                  "children": [
+                    {
+                      "text": "earlier mating/reproduction"
+                    },
+                    {
+                      "text": "later mating/reproduction"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Freshwater wild species",
+              "children": [
+                {
+                  "text": "species characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    },
+                    {
+                      "text": "change in composition",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "change in distribution",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in size"
+                    },
+                    {
+                      "text": "increase in size"
+                    },
+                    {
+                      "text": "decrease in mortality"
+                    },
+                    {
+                      "text": "increase in mortality"
+                    },
+                    {
+                      "text": "change in behaviour",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "change in taste",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "invasive species",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    }
+                  ]
+                },
+                {
+                  "text": "parasites",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "malformations",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "migration",
+                  "children": [
+                    {
+                      "text": "change in route",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "earlier migration"
+                    },
+                    {
+                      "text": "later migration"
+                    }
+                  ]
+                },
+                {
+                  "text": "eggs, pups, offspring",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "mating/reproduction",
+                  "children": [
+                    {
+                      "text": "earlier mating/reproduction"
+                    },
+                    {
+                      "text": "later mating/reproduction"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Terrestial wild species",
+              "children": [
+                {
+                  "text": "species characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    },
+                    {
+                      "text": "change in composition",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "change in distribution",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in size"
+                    },
+                    {
+                      "text": "increase in size"
+                    },
+                    {
+                      "text": "decrease in mortality"
+                    },
+                    {
+                      "text": "increase in mortality"
+                    },
+                    {
+                      "text": "change in taste",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "change in behaviour",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in hight"
+                    },
+                    {
+                      "text": "increase in hight"
+                    },
+                    {
+                      "text": "decrease in growth rate"
+                    },
+                    {
+                      "text": "increase in growth rate"
+                    },
+                    {
+                      "text": "decrease in productivity"
+                    },
+                    {
+                      "text": "increase in productivity"
+                    },
+                    {
+                      "text": "decrease in quality"
+                    },
+                    {
+                      "text": "increase in quality"
+                    }
+                  ]
+                },
+                {
+                  "text": "invasive species",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    },
+                    {
+                      "text": "change in distribution",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "migration",
+                  "children": [
+                    {
+                      "text": "change in route",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "earlier migration"
+                    },
+                    {
+                      "text": "later migration"
+                    }
+                  ]
+                },
+                {
+                  "text": "unusual behaviour",
+                  "children": [
+                    {
+                      "text": "decrease in occurrence"
+                    },
+                    {
+                      "text": "increase in occurrence"
+                    }
+                  ]
+                },
+                {
+                  "text": "mating, reproduction, hybernation",
+                  "children": [
+                    {
+                      "text": "earlier mating, reproduction, hybernation"
+                    },
+                    {
+                      "text": "later mating, reproduction, hybernation"
+                    }
+                  ]
+                },
+                {
+                  "text": "eggs, pups or offspring",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases and pests",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in occurence"
+                    },
+                    {
+                      "text": "increase in occurence"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases transmitted by insects",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "malformations",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "vegetation in general",
+                  "children": [
+                    {
+                      "text": "change in composition",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "change in type",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in hight"
+                    },
+                    {
+                      "text": "increase in hight"
+                    }
+                  ]
+                },
+                {
+                  "text": "flowering",
+                  "children": [
+                    {
+                      "text": "earlier flowering"
+                    },
+                    {
+                      "text": "later flowering"
+                    }
+                  ]
+                },
+                {
+                  "text": "fruiting",
+                  "children": [
+                    {
+                      "text": "earlier fruiting"
+                    },
+                    {
+                      "text": "later fruiting"
+                    }
+                  ]
+                },
+                {
+                  "text": "leaf shedding",
+                  "children": [
+                    {
+                      "text": "earlier leaf shedding"
+                    },
+                    {
+                      "text": "later leaf shedding"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Ecosystems / landscape changes",
+              "children": [
+                {
+                  "text": "ecosystem changes",
+                  "children": [
+                    {
+                      "text": "decrease in integrity"
+                    },
+                    {
+                      "text": "increase in integrity"
+                    },
+                    {
+                      "text": "decrease in fragmentation"
+                    },
+                    {
+                      "text": "increase in fragmentation"
+                    },
+                    {
+                      "text": "decrease in productivity"
+                    },
+                    {
+                      "text": "increase in productivity"
+                    }
+                  ]
+                },
+                {
+                  "text": "land cover (e.g., pastures, forests, fields, urban areas, etc.)",
+                  "children": [
+                    {
+                      "text": "change in characteristics",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "biodiversity (i.e., diversity of biological species)",
+                  "children": [
+                    {
+                      "text": "decrease in level"
+                    },
+                    {
+                      "text": "increase in level"
+                    }
+                  ]
+                },
+                {
+                  "text": "landscape elements",
+                  "children": [
+                    {
+                      "text": "decrease in availability"
+                    },
+                    {
+                      "text": "increase in availability"
+                    }
+                  ]
+                },
+                {
+                  "text": "wildfires",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "decrease in intensity"
+                    },
+                    {
+                      "text": "increase in intensity"
+                    },
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Social/economic/cultural",
+          "description": "LICCIs related to livelihood activities and human societies/culture.",
+          "children": [
+            {
+              "text": "Aquaculture (marine and freshwater)",
+              "children": [
+                {
+                  "text": "cultured species characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in productivity"
+                    },
+                    {
+                      "text": "increase in productivity"
+                    },
+                    {
+                      "text": "decrease in size"
+                    },
+                    {
+                      "text": "increase in size"
+                    },
+                    {
+                      "text": "change in taste",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in mortality"
+                    },
+                    {
+                      "text": "increase in mortality"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "malformations",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "parasites",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "unusual animal behaviour",
+                  "children": [
+                    {
+                      "text": "decrease in occurrence"
+                    },
+                    {
+                      "text": "increase in occurrence"
+                    }
+                  ]
+                },
+                {
+                  "text": "mating or reproduction",
+                  "children": [
+                    {
+                      "text": "earlier mating or reproduction"
+                    },
+                    {
+                      "text": "later mating or reproduction"
+                    }
+                  ]
+                },
+                {
+                  "text": "eggs, pups or offspring",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Agriculture (crops, orchards)",
+              "children": [
+                {
+                  "text": "crop characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in productivity"
+                    },
+                    {
+                      "text": "increase in productivity"
+                    },
+                    {
+                      "text": "change in taste",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in quality"
+                    },
+                    {
+                      "text": "increase in quality"
+                    },
+                    {
+                      "text": "change in morphology",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in mortality"
+                    },
+                    {
+                      "text": "increase in mortality"
+                    }
+                  ]
+                },
+                {
+                  "text": "crop fruits",
+                  "children": [
+                    {
+                      "text": "decrease in size"
+                    },
+                    {
+                      "text": "increase in size"
+                    }
+                  ]
+                },
+                {
+                  "text": "crop seed",
+                  "children": [
+                    {
+                      "text": "decrease in availability"
+                    },
+                    {
+                      "text": "increase in availability"
+                    },
+                    {
+                      "text": "decrease in quality"
+                    },
+                    {
+                      "text": "increase in quality"
+                    }
+                  ]
+                },
+                {
+                  "text": "crop diseases (virus, fungi etc.)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "change in type",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "crop pests (insects, birds etc.)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "invasive species (weeds)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "cropping season",
+                  "children": [
+                    {
+                      "text": "decrease in success"
+                    },
+                    {
+                      "text": "increase in success"
+                    },
+                    {
+                      "text": "decrease in length"
+                    },
+                    {
+                      "text": "increase in length"
+                    }
+                  ]
+                },
+                {
+                  "text": "crop flowering",
+                  "children": [
+                    {
+                      "text": "earlier crop flowering"
+                    },
+                    {
+                      "text": "later crop flowering"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "crop maturation",
+                  "children": [
+                    {
+                      "text": "earlier crop maturation"
+                    },
+                    {
+                      "text": "later crop maturation"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "crop harvesting",
+                  "children": [
+                    {
+                      "text": "earlier crop harvesting"
+                    },
+                    {
+                      "text": "later crop harvesting"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "crop sowing",
+                  "children": [
+                    {
+                      "text": "earlier crop sowing"
+                    },
+                    {
+                      "text": "later crop sowing"
+                    }
+                  ]
+                },
+                {
+                  "text": "crop fruiting",
+                  "children": [
+                    {
+                      "text": "earlier crop fruiting"
+                    },
+                    {
+                      "text": "later crop fruiting"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "suitable cropping areas",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Managed / cultivated grasslands",
+              "children": [
+                {
+                  "text": "grassland cover",
+                  "children": [
+                    {
+                      "text": "decrease in extension"
+                    },
+                    {
+                      "text": "increase in extension"
+                    }
+                  ]
+                },
+                {
+                  "text": "grassland species characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in productivity"
+                    },
+                    {
+                      "text": "increase in productivity"
+                    },
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    },
+                    {
+                      "text": "change in composition",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    },
+                    {
+                      "text": "decrease in quality"
+                    },
+                    {
+                      "text": "increase in quality"
+                    },
+                    {
+                      "text": "decrease in mortality"
+                    },
+                    {
+                      "text": "increase in mortality"
+                    }
+                  ]
+                },
+                {
+                  "text": "grassland growth",
+                  "children": [
+                    {
+                      "text": "decrease in rate"
+                    },
+                    {
+                      "text": "increase in rate"
+                    },
+                    {
+                      "text": "earlier grassland growth"
+                    },
+                    {
+                      "text": "later grassland growth"
+                    }
+                  ]
+                },
+                {
+                  "text": "grassland reproduction",
+                  "children": [
+                    {
+                      "text": "earlier grassland reproduction"
+                    },
+                    {
+                      "text": "later grassland reproduction"
+                    }
+                  ]
+                },
+                {
+                  "text": "seed",
+                  "children": [
+                    {
+                      "text": "decrease in availability"
+                    },
+                    {
+                      "text": "increase in availability"
+                    }
+                  ]
+                },
+                {
+                  "text": "invasive species",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    }
+                  ]
+                },
+                {
+                  "text": "toxic species",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "pests (insects, larvae etc.)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Animal production / husbandry",
+              "children": [
+                {
+                  "text": "animal characteristics",
+                  "children": [
+                    {
+                      "text": "decrease in productivity"
+                    },
+                    {
+                      "text": "increase in productivity"
+                    },
+                    {
+                      "text": "decrease in mortality"
+                    },
+                    {
+                      "text": "increase in mortality"
+                    },
+                    {
+                      "text": "change in behaviour",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "milking period",
+                  "children": [
+                    {
+                      "text": "earlier milking period"
+                    },
+                    {
+                      "text": "later milking period"
+                    },
+                    {
+                      "text": "decrease in duration"
+                    },
+                    {
+                      "text": "increase in duration"
+                    }
+                  ]
+                },
+                {
+                  "text": "mating",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "earlier mating"
+                    },
+                    {
+                      "text": "later mating"
+                    }
+                  ]
+                },
+                {
+                  "text": "pups or offspring",
+                  "children": [
+                    {
+                      "text": "decrease in amount"
+                    },
+                    {
+                      "text": "increase in amount"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases (in general)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "change in type",
+                      "extra": {
+                        "text": "Name the direction"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases transmitted by insects (flies, ticks, etc)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "parasites",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Human health",
+              "children": [
+                {
+                  "text": "diseases in general (flue, allergies etc.)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases transmitted by insects (malaria, dengue etc)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "diseases transmitted by water (cholera etc.)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "injuries (eg., ice-related accidents, weather inclemency, walking longer distances to water)",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                },
+                {
+                  "text": "famine/food shortage",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    },
+                    {
+                      "text": "less famine/food shortage"
+                    },
+                    {
+                      "text": "more famine/food shortage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Conflicts",
+              "children": [
+                {
+                  "text": "related to natural resources",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Culture and belief systems",
+              "children": [
+                {
+                  "text": "cultural/spiritual values",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    },
+                    {
+                      "text": "decrease in importance"
+                    },
+                    {
+                      "text": "increase in importance"
+                    }
+                  ]
+                },
+                {
+                  "text": "cultural/spiritual expressions/performances",
+                  "children": [
+                    {
+                      "text": "decrease in abundance"
+                    },
+                    {
+                      "text": "increase in abundance"
+                    },
+                    {
+                      "text": "decrease in importance"
+                    },
+                    {
+                      "text": "increase in importance"
+                    },
+                    {
+                      "text": "earlier cultural/spiritual expressions/performances"
+                    },
+                    {
+                      "text": "later cultural/spiritual expressions/performances"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Infrastructure",
+              "children": [
+                {
+                  "text": "transportation problems",
+                  "children": [
+                    {
+                      "text": "decrease in frequency"
+                    },
+                    {
+                      "text": "increase in frequency"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

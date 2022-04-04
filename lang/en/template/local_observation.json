@@ -1,0 +1,171 @@
+{
+  "title": "Local Observation",
+  "description": "Observation of an local indicator of climate change impacts",
+  "aspects": [
+    {
+      "label": "Title",
+      "description": "Short name for the observation"
+    },
+    {
+      "label": "Observation",
+      "description": "Describe the observation"
+    },
+    {
+      "label": "Observer",
+      "description": "Who made the observation?",
+      "items": [
+        {
+          "text":"Only me"
+        },
+        {
+          "text": "Other"
+        }
+      ]
+    },
+    {
+      "label": "Other observers",
+      "items": [
+        {
+          "text": "One person"
+        },
+        {
+          "text": "Multiple persons"
+        },
+        {
+          "text": "External source"
+        }
+      ]
+    },
+    {
+      "label": "How would you best identify the other person?",
+      "items": [
+        {
+          "text": "No information on the person"
+        },
+        {
+          "text": "Researcher/Academic/Faculty"
+        },
+        {
+          "text": "Practitioner (NGO, government, consultant, etc)"
+        },
+        {
+          "text": "Representative/member of Indigenous Peoples or ethnic community"
+        },
+        {
+          "text": "Local person with a connection to nature (e.g., fisherman, hunter, farmer, shepherd) "
+        },
+        {
+          "text": "Lay citizen (none of the above) "
+        }
+      ]
+    },
+    {
+      "label": "How would you identify them?",
+      "items": [
+        {
+          "text": "No information on the person"
+        },
+        {
+          "text": "Researcher/Academic/Faculty"
+        },
+        {
+          "text": "Practitioner (NGO, government, consultant, etc)"
+        },
+        {
+          "text": "Representative/member of Indigenous Peoples or ethnic community"
+        },
+        {
+          "text": "Local person with a connection to nature (e.g., fisherman, hunter, farmer, shepherd) "
+        },
+        {
+          "text": "Lay citizen (none of the above) "
+        }
+      ]
+    },
+    {
+      "label": "External source"
+    },
+    {
+      "label": "Observation classification",
+      "description": "Please classify the observation."
+    },
+    {
+      "label": "Images",
+      "description": "Add images of your observation."
+    },
+    {
+      "label": "Drivers of change",
+      "description": "List the drivers/causes of this change that you know. We differentiate between drivers in two lists. A list for drivers which are climate change impacts and a list for other factors.",
+      "components": [
+        {
+          "label": "Climate change drivers",
+          "description": "Select a climate change impacts that drive/cause this observation. Notice it not the same detail as for the observation classification is required. Selecting one of the main systems is sufficient.",
+          "attr": {
+            "default_view_text": "no drivers specified"
+          },
+          "list_items": {
+            "label": "Driver"
+          }
+        },
+        {
+          "label": "Other driving factors",
+          "description": "What other factors are there?  (e.g. human-made causes like deforestation).",
+          "attr": {
+            "default_view_text": "no drivers specified"
+          },
+          "list_items": {
+            "label": "Driver"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Affected species",
+      "description": "What the species affected by this impact?",
+      "list_items": {
+        "label": "Species",
+        "components": [
+          {
+            "items": [
+              "animal",
+              "plant",
+              "fungi",
+              "bacteria/other"
+            ]
+          },
+          {
+            "label": "Animal species subcategory",
+            "items": [
+              "mammal",
+              "bird",
+              "amphibians",
+              "fish",
+              "insects",
+              "other"
+            ]
+          },
+          {
+            "label": "Plant species subcategory",
+            "items": [
+              "woody",
+              "non-woody"
+            ]
+          },
+          {
+            "label": "Local name"
+          },
+          {
+            "label": "Scientific name"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Location",
+      "description": ""
+    },
+    {
+      "label": "Climate zone"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "title": "Koeppen geiger climate classification",
+  "values": {
+    "levels": [
+      "Grupo principal",
+      "Precipitación estacional",
+      "Nivel de calor"
+    ],
+    "root": {
+      "text": "Clasificación climática de Koeppen Geiger",
+      "children": [
+        {
+          "text": "Tropical",
+          "children": [
+            {
+              "text": "Selva"
+            },
+            {
+              "text": "Monzón"
+            },
+            {
+              "text": "sabana"
+            }
+          ]
+        },
+        {
+          "text": "Árido",
+          "children": [
+            {
+              "text": "desierto",
+              "children": [
+                {
+                  "text": "caliente"
+                },
+                {
+                  "text": "frío"
+                }
+              ]
+            },
+            {
+              "text": "estepa",
+              "children": [
+                {
+                  "text": "caliente"
+                },
+                {
+                  "text": "frío"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Templado",
+          "children": [
+            {
+              "text": "verano seco",
+              "children": [
+                {
+                  "text": "verano caluroso"
+                },
+                {
+                  "text": "verano cálido"
+                },
+                {
+                  "text": "verano frio"
+                }
+              ]
+            },
+            {
+              "text": "invierno seco",
+              "children": [
+                {
+                  "text": "verano caluroso"
+                },
+                {
+                  "text": "verano cálido"
+                },
+                {
+                  "text": "verano frío"
+                }
+              ]
+            },
+            {
+              "text": "sin estación seca",
+              "children": [
+                {
+                  "text": "verano caluroso"
+                },
+                {
+                  "text": "verano cálido"
+                },
+                {
+                  "text": "verano frío"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Frío",
+          "children": [
+            {
+              "text": "verano seco",
+              "children": [
+                {
+                  "text": "verano caluroso"
+                },
+                {
+                  "text": "verano cálido"
+                },
+                {
+                  "text": "verano frío"
+                },
+                {
+                  "text": "invierno muy frío"
+                }
+              ]
+            },
+            {
+              "text": "invierno seco",
+              "children": [
+                {
+                  "text": "verano caluroso"
+                },
+                {
+                  "text": "verano cálido"
+                },
+                {
+                  "text": "verano frío"
+                },
+                {
+                  "text": "invierno muy frio"
+                }
+              ]
+            },
+            {
+              "text": "sin estación seca",
+              "children": [
+                {
+                  "text": "verano caluroso"
+                },
+                {
+                  "text": "verano cálido"
+                },
+                {
+                  "text": "verano frío"
+                },
+                {
+                  "text": "invierno muy frío"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Polar",
+          "children": [
+            {
+              "text": "tundra"
+            },
+            {
+              "text": "escarcha"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

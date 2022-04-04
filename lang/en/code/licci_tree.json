@@ -1,0 +1,1551 @@
+{
+  "title": "LICCI tree",
+  "values": {
+    "levels": [
+      "System",
+      "Subsystem",
+      "Impacted Element",
+      "LICCI"
+    ],
+     "root": {
+            "text": "LICCI_CODE_UTF-8",
+            "children": [
+              {
+                "text": "Climatic system",
+                "children": [
+                  {
+                    "text": "Temperature",
+                    "children": [
+                      {
+                        "text": "Mean temperature",
+                        "children": [
+                          {
+                            "text": "Changes in mean temperature (not further specified)"
+                          },
+                          {
+                            "text": "Changes in the frequency of hot / warm days"
+                          },
+                          {
+                            "text": "Changes in the frequency of cold days"
+                          },
+                          {
+                            "text": "Changes in the temperature during the night"
+                          },
+                          {
+                            "text": "Changes in the temperature during the day"
+                          },
+                          {
+                            "text": "Changes in temperature associated with elevation"
+                          },
+                          {
+                            "text": "Changes in temperature fluctuation"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Temperature extremes",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of days with extreme temperatures"
+                          },
+                          {
+                            "text": "Changes in the frequency of heat waves"
+                          },
+                          {
+                            "text": "Changes in the frequency of cold waves"
+                          },
+                          {
+                            "text": "Changes in the length/duration of heat waves"
+                          },
+                          {
+                            "text": "Changes in the length/duration of cold waves"
+                          },
+                          {
+                            "text": "Changes in the intensity / strength of heat waves"
+                          },
+                          {
+                            "text": "Change in the intensity / strength of cold waves"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Seasonal temperature",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of unusual temperatures in a given season"
+                          },
+                          {
+                            "text": "Changes in the mean temperature in a given season"
+                          },
+                          {
+                            "text": "Changes in the frequency of extreme cold seasons"
+                          },
+                          {
+                            "text": "Changes in the intensity / strength of extreme cold seasons"
+                          },
+                          {
+                            "text": "Changes in the frequency of extreme hot seasons"
+                          },
+                          {
+                            "text": "Changes in the intensity / strength of extreme hot seasons"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Sunshine",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of sunny days"
+                          },
+                          {
+                            "text": "Changes in sunshine intensity"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Precipitation",
+                    "children": [
+                      {
+                        "text": "Mean precipitation",
+                        "children": [
+                          {
+                            "text": "Changes in mean rainfall (not further specified)"
+                          },
+                          {
+                            "text": "Changes in the number of days with rainfall / rainy days (not further specified)"
+                          },
+                          {
+                            "text": "Changes in the intensity / strength of rainfall (not further specified)"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Precipitation extremes",
+                        "children": [
+                          {
+                            "text": "Changes in the intensity / strength of heavy rainfall events"
+                          },
+                          {
+                            "text": "Changes in the frequency of heavy rainfall events"
+                          },
+                          {
+                            "text": "Changes in the frequency of flash floods"
+                          },
+                          {
+                            "text": "Changes in the intensity / strength of flash floods"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Precipitation distribution, variability and predictability",
+                        "children": [
+                          {
+                            "text": "Changes in variability of rainfall (not further specified)"
+                          },
+                          {
+                            "text": "Changes in temporal distribution of rainfall"
+                          },
+                          {
+                            "text": "Changes in the spatial distribution of rainfall"
+                          },
+                          {
+                            "text": "Changes in the length / duration of rainfall events"
+                          },
+                          {
+                            "text": "Changes in the predictability of rainfall"
+                          },
+                          {
+                            "text": "Changes in the frequency of dry spells"
+                          },
+                          {
+                            "text": "Changes in the length /duration of dry spells"
+                          },
+                          {
+                            "text": "Changes in the frequency of wet spells"
+                          },
+                          {
+                            "text": "Changes in the length /duration of wet spells"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Seasonal precipitation",
+                        "children": [
+                          {
+                            "text": "Changes in the amount of rainfall in a given season"
+                          },
+                          {
+                            "text": "Changes in the intensity / strength of rainfall in a given season"
+                          },
+                          {
+                            "text": "Changes in the variation of rainfall in a given season"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Drought",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of drought events"
+                          },
+                          {
+                            "text": "Changes in the intensity of drought"
+                          },
+                          {
+                            "text": "Changes in the length / duration of drought"
+                          },
+                          {
+                            "text": "Changes in the frequency of years without any rainfall"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Clouds and fog",
+                        "children": [
+                          {
+                            "text": "Changes in clouds size / thickness"
+                          },
+                          {
+                            "text": "Changes in the number of clouds"
+                          },
+                          {
+                            "text": "Changes in the colour of clouds"
+                          },
+                          {
+                            "text": "Changes in the frequency of fog or misty days"
+                          },
+                          {
+                            "text": "Changes in the frequency of cloudy days"
+                          },
+                          {
+                            "text": "Changes in the length / duration of fog"
+                          },
+                          {
+                            "text": "Changes in fog thickness / density"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Moisture / humidity, dew and frost",
+                        "children": [
+                          {
+                            "text": "Changes in air moisture / humidity"
+                          },
+                          {
+                            "text": "Changes in the amount / intensity / strength of dew"
+                          },
+                          {
+                            "text": "Changes in the number of days with dew"
+                          },
+                          {
+                            "text": "Changes in the frequency of frost days"
+                          },
+                          {
+                            "text": "Changes in the amount / intensity / strength of frost"
+                          },
+                          {
+                            "text": "Changes in the temporal distribution of frost"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Air Masses",
+                    "children": [
+                      {
+                        "text": "Wind",
+                        "children": [
+                          {
+                            "text": "Changes in wind strength or speed"
+                          },
+                          {
+                            "text": "Changes in the number of windy days"
+                          },
+                          {
+                            "text": "Changes in wind direction"
+                          },
+                          {
+                            "text": "Changes in wind temperature"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Storm (wind storm/hail storm/dust storm/sandstorm/electric)",
+                        "children": [
+                          {
+                            "text": "Change in the frequency of storms (not further specified)"
+                          },
+                          {
+                            "text": "Change in the intensity of storms (not further specified)"
+                          },
+                          {
+                            "text": "Changes in the frequency of wind storms"
+                          },
+                          {
+                            "text": "Changes in the intensity of wind storms"
+                          },
+                          {
+                            "text": "Changes in the frequency of lightning and thundering"
+                          },
+                          {
+                            "text": "Changes in the intensity of lightning and thundering"
+                          },
+                          {
+                            "text": "Changes in the frequency of electric storms"
+                          },
+                          {
+                            "text": "Changes in the frequency of hail storms"
+                          },
+                          {
+                            "text": "Changes in the intensity of hail storms"
+                          },
+                          {
+                            "text": "Changes in the frequency of sand or dust storms"
+                          },
+                          {
+                            "text": "Changes in the intensity of sand or dust storms"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Cyclones, tornadoes",
+                        "children": [
+                          {
+                            "text": "Change in the frequency of cyclones"
+                          },
+                          {
+                            "text": "Change in the intensity of cyclones"
+                          },
+                          {
+                            "text": "Change in the frequency of tornadoes"
+                          },
+                          {
+                            "text": "Change in the intensity of tornadoes"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Seasons",
+                    "children": [
+                      {
+                        "text": "Duration and timing of seasons",
+                        "children": [
+                          {
+                            "text": "Changes in the length /duration /disappearance of seasons"
+                          },
+                          {
+                            "text": "Changes in the timing (onset or end) of seasons"
+                          },
+                          {
+                            "text": "Changes in the transition between seasons"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Physical system",
+                "children": [
+                  {
+                    "text": "Marine physical systems (ocean & sea)",
+                    "children": [
+                      {
+                        "text": "Sea temperature",
+                        "children": [
+                          {
+                            "text": "Changes in the sea surface temperature (not further specified)"
+                          },
+                          {
+                            "text": "Changes in the sea temperature in a given season"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Sea-level rise",
+                        "children": [
+                          {
+                            "text": "Changes in the sea level"
+                          },
+                          {
+                            "text": "Changes in the size of waves"
+                          },
+                          {
+                            "text": "Changes in the level of tides"
+                          },
+                          {
+                            "text": "Changes in the frequency of coastal flooding"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Coastal erosion/sedimentation",
+                        "children": [
+                          {
+                            "text": "Changes in coastal sedimentation"
+                          },
+                          {
+                            "text": "Changes in coastal erosion"
+                          },
+                          {
+                            "text": "Changes in the structure of beach soil"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Ocean Currents",
+                        "children": [
+                          {
+                            "text": "Changes in the speed or strength of ocean currents"
+                          },
+                          {
+                            "text": "Changes in the direction of ocean currents"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Ocean Salinity",
+                        "children": [
+                          {
+                            "text": "Changes in ocean water salinity"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Freshwater physical systems (continental waters)",
+                    "children": [
+                      {
+                        "text": "Mean river flow",
+                        "children": [
+                          {
+                            "text": "Changes in river / stream water flow, volume, level and/or depth"
+                          },
+                          {
+                            "text": "Changes in the number of river / stream pools"
+                          },
+                          {
+                            "text": "Changes in abundance of rivers or streams"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "River and lake floods",
+                        "children": [
+                          {
+                            "text": "Changes in the extension of the area flooded by rivers"
+                          },
+                          {
+                            "text": "Changes in the frequency of river / lake floods"
+                          },
+                          {
+                            "text": "Changes in the intensity of river / lake floods"
+                          },
+                          {
+                            "text": "Changes in the extension of the area flooded by lakes"
+                          },
+                          {
+                            "text": "Changes in wetland surface"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Fresh water availability/quality",
+                        "children": [
+                          {
+                            "text": "Changes in freshwater quality (not further specified)"
+                          },
+                          {
+                            "text": "Changes in freshwater availability"
+                          },
+                          {
+                            "text": "Changes in freshwater pollution"
+                          },
+                          {
+                            "text": "Changes in freshwater transparency / concentration of dissolved particles"
+                          },
+                          {
+                            "text": "Changes in freshwater salinity"
+                          },
+                          {
+                            "text": "Changes in taste of snow and freshwater"
+                          },
+                          {
+                            "text": "Changes in the number of natural freshwater springs"
+                          },
+                          {
+                            "text": "Changes in number of freshwater ponds"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Water temperature of rivers and lakes",
+                        "children": [
+                          {
+                            "text": "Changes in temperature of river water"
+                          },
+                          {
+                            "text": "Changes in temperature of lake water"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Lake / pond level",
+                        "children": [
+                          {
+                            "text": "Changes in level of lake / pond water"
+                          },
+                          {
+                            "text": "Changes in the duration of temporary lakes / ponds"
+                          },
+                          {
+                            "text": "Changes in the abundance / availability of lakes / ponds"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Phreating/Underground water",
+                        "children": [
+                                                    {
+                            "text": "Changes in the phreatic level"
+                          },
+                          {
+                            "text": "Changes in the speed of aquifer recharge"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "River bank / pond erosion and sedimentation",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of river or pond bank erosion"
+                          },
+                          {
+                            "text": "Changes in the intensity of river or pond bank erosion"
+                          },
+                          {
+                            "text": "Changes in the location of river or pond bank erosion"
+                          },
+                          {
+                            "text": "Changes in the frequency of river or pond sedimentation"
+                          },
+                          {
+                            "text": "Changes in the intensity of river or pond sedimentation"
+                          },
+                          {
+                            "text": "Changes in the location of river or pond sedimentation"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "River / stream / lake seasonal water level",
+                        "children": [
+                          {
+                            "text": "Changes in the timing of seasonal fluctuation in river / stream / lake water level"
+                          },
+                          {
+                            "text": "Changes in the speed of seasonal fluctuation in river / stream / lake water level"
+                          },
+                          {
+                            "text": "Changes in river / stream / lake water level in a given season"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Terrestrial physical systems (Soil & Land)",
+                    "children": [
+                      {
+                        "text": "Soil erosion / landslides",
+                        "children": [
+                                              {
+                            "text": "Changes in rain-induced soil erosion and soil loss"
+                          },
+                          {
+                            "text": "Changes in wind-induced soil erosion and soil loss"
+                          },
+                          {
+                            "text": "Changes in soil sedimentation"
+                          },
+                          {
+                            "text": "Changes in the frequency of landslides"
+                          },
+                          {
+                            "text": "Changes in the intensity of landslides"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Soil moisture",
+                        "children": [
+                          {
+                            "text": "Changes in soil moisture / humidity"
+                          },
+                          {
+                            "text": "Changes in soil evaporation"
+                          },
+                          {
+                            "text": "Changes in soil water infiltration"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Soil temperature",
+                        "children": [
+                          {
+                            "text": "Changes in soil temperature"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Soil fertility, structure and biology",
+                        "children": [
+                          {
+                            "text": "Changes leading to soil degradation (not further specified)"
+                          },
+                          {
+                            "text": "Changes in soil fertility"
+                          },
+                          {
+                            "text": "Changes in soil productivity"
+                          },
+                          {
+                            "text": "Changes in soil biota"
+                          },
+                          {
+                            "text": "Changes in soil texture"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Soil degradation",
+                        "children": [
+                          {
+                            "text": "Changes in soil desertification"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Earthquake and tsunamis",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of earthquakes and tsunamis"
+                          },
+                          {
+                            "text": "Changes in the intensity of earthquakes and tsunamis"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Cryosphere (Ice & Snow)",
+                    "children": [
+                      {
+                        "text": "Snowfall and snow cover",
+                        "children": [
+                          {
+                            "text": "Changes in the amount of snowfall"
+                          },
+                          {
+                            "text": "Changes in the frequency of snowfall"
+                          },
+                          {
+                            "text": "Changes in variability of snowfall (not further specified)"
+                          },
+                          {
+                            "text": "Changes in temporal distribution of snowfall"
+                          },
+                          {
+                            "text": "Changes in spatial distribution of snowfall"
+                          },
+                          {
+                            "text": "Changes in the physical structure and texture of snow"
+                          },
+                          {
+                            "text": "Changes in the depth of snow in areas with permanent snowcover"
+                          },
+                          {
+                            "text": "Changes in the length / duration of temporary snowcover"
+                          },
+                          {
+                            "text": "Changes in the extent of permanent snow"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Lake and river ice",
+                        "children": [
+                          {
+                            "text": "Changes in the physical structure and texture of ice in lakes or rivers"
+                          },
+                          {
+                            "text": "Changes in the thickness of ice in lakes or rivers"
+                          },
+                          {
+                            "text": "Changes in ice melting or breaking patterns in lakes or rivers"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Sea Ice",
+                        "children": [
+                          {
+                            "text": "Changes in the extent of sea-ice surface"
+                          },
+                          {
+                            "text": "Changes in the thickness of sea-ice"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Glaciers and icebergs",
+                        "children": [
+                          {
+                            "text": "Changes in the extension of glaciers"
+                          },
+                          {
+                            "text": "Changes in the extension of icebergs"
+                          },
+                          {
+                            "text": "Change in the movement of icebergs"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Permafrost",
+                        "children": [
+                          {
+                            "text": "Changes in the extent of permafrost surface"
+                          },
+                          {
+                            "text": "Changes in the continuity of permafrost surface"
+                          },
+                          {
+                            "text": "Changes in the depth of the permafrost layer"
+                          },
+                          {
+                            "text": "Changes in the thawing or melting of permafrost"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Seasonal ice formation",
+                        "children": [
+                          {
+                            "text": "Changes in the speed of ice melting or break-up"
+                          },
+                          {
+                            "text": "Changes in the speed of ice formation"
+                          },
+                          {
+                            "text": "Changes in the timing of ice melting or break-up"
+                          },
+                          {
+                            "text": "Changes in the timing of ice formation"
+                          },
+                          {
+                            "text": "Changes in the frequency of freeze events"
+                          },
+                          {
+                            "text": "Changes in the duration of ice"
+                          },
+                          {
+                            "text": "Changes in ice stability / resistence"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Biological system",
+                "children": [
+                  {
+                    "text": "Marine Biological system",
+                    "children": [
+                      {
+                        "text": "Marine spp Abundance",
+                        "children": [
+                          {
+                            "text": "Changes in the abundance of marine animals excluding fish (mammals, birds, crustaceans, etc)"
+                          },
+                          {
+                            "text": "Changes in the abundance of marine algae-seagrass"
+                          },
+                          {
+                            "text": "Changes in the abundance of marine fish"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Marine spp composition (assemblage of species)",
+                        "children": [
+                          {
+                            "text": "Changes in the species composition of marine animal and plant species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Marine spp Distribution and migration",
+                        "children": [
+                          {
+                            "text": "Changes in the distribution of marine animal and plant species"
+                          },
+                          {
+                            "text": "Changes in the location of animal marine species migration areas and routes"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Marine spp Invasive Allien Species",
+                        "children": [
+                          {
+                            "text": "Changes in the abundance or occurrence of marine animal and plant species stated as invasive"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Marine spp Disease/pest/mortality",
+                        "children": [
+                          {
+                            "text": "Changes in the size of marine animals and plants"
+                          },
+                          {
+                            "text": "Changes in the frequency of deformed marine animals and plants"
+                          },
+                          {
+                            "text": "Changes in coral reef bleaching"
+                          },
+                          {
+                            "text": "Changes in the frequency of parasites in marine animal species"
+                          },
+                          {
+                            "text": "Changes in the mortality of marine animal and plant species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Marine spp Phenology",
+                        "children": [
+                          {
+                            "text": "Changes in the behaviour of marine animals"
+                          },
+                          {
+                            "text": "Changes in the timing of migration of marine animal species"
+                          },
+                          {
+                            "text": "Changes in the timing of mating or reproduction of marine animal species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Marine spp Reproduction",
+                        "children": [
+                          {
+                            "text": "Changes in the number of eggs, pups or offspring of marine species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Marine spp quality",
+                        "children": [
+                          {
+                            "text": "Changes in the taste of marine animal and plant species"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Freshwater Biological system",
+                    "children": [
+                      {
+                        "text": "Fresh water spp Abundance",
+                        "children": [
+                          {
+                            "text": "Changes in the abundance of freshwater animal species, excluding fish (mammals, birds, amphibians, reptiles, crustaceans, etc)"
+                          },
+                          {
+                            "text": "Changes in the abundance of freshwater plant species"
+                          },
+                          {
+                            "text": "Changes in the abundance of freshwater fish"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Fresh water spp Composition",
+                        "children": [
+                          {
+                            "text": "Change in the species composition of freshwater animal and plant species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Fresh water spp Distribution and migration",
+                        "children": [
+                          {
+                            "text": "Changes in the distribution of freshwater animal and plant species"
+                          },
+                          {
+                            "text": "Changes in freshwater animal species migration areas and routes"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Fresh water spp Invasive Allien Species",
+                        "children": [
+                          {
+                            "text": "Changes in the abundance or occurrence of freshwater animal and plant species stated as invasive"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Fresh water spp Disease/pest/mortality",
+                        "children": [
+                          {
+                            "text": "Changes in the size of freshwater animal and plant species"
+                          },
+                          {
+                            "text": "Changes in the frequency of diseases in freshwater animal and plant species"
+                          },
+                          {
+                            "text": "Changes in the frequency of malformations freshwater animal and plant species"
+                          },
+                          {
+                            "text": "Changes in the frequency of parasites in freshwater animal species"
+                          },
+                          {
+                            "text": "Changes in the mortality of freshwater animal and plant species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Fresh water spp Phenology",
+                        "children": [
+                          {
+                            "text": "Changes in the behaviour of freshwater animals"
+                          },
+                          {
+                            "text": "Changes in the timing of migration of freshwater animal species"
+                          },
+                          {
+                            "text": "Changes in the timing of mating or reproduction of freshwater animal species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Fresh water spp Reproduction",
+                        "children": [
+                          {
+                            "text": "Changes in the number of eggs, pups or offspring of freshwater species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Fresh water spp quality",
+                        "children": [
+                          {
+                            "text": "Changes in the taste of freshwater animal species"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Terrestrial Wild Fauna",
+                    "children": [
+                      {
+                        "text": "Terrestrial fauna Abundance",
+                        "children": [
+                          {
+                            "text": "Changes in the abundance of terrestrial fauna (mammals, birds, reptiles, insects, etc)"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Terrestrial fauna spp composition (assemblage of species)",
+                        "children": [
+                          {
+                            "text": "Change in the species composition of terrestrial fauna"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Terrestrial fauna Distribution and migration",
+                        "children": [
+                          {
+                            "text": "Changes in the distribution of terrestrial fauna"
+                          },
+                          {
+                            "text": "Changes in terrestrial fauna migration areas and routes"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Terrestrial fauna Invasive Allien Species",
+                        "children": [
+                          {
+                            "text": "Changes in the abundance or occurrence of terrestrial fauna stated as invasive (cockroaches, rats, pidgeons, etc)"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Terrestrial fauna Disease/pest/mortality",
+                        "children": [
+                          {
+                            "text": "Changes in the size of terrestrial fauna"
+                          },
+                          {
+                            "text": "Changes in the frequency of diseases in terrestrial fauna"
+                          },
+                          {
+                            "text": "Changes in the frequency of animal pest-vector borne diseases (flies, ticks, etc)"
+                          },
+                          {
+                            "text": "Changes in the frequency of malformations in terrestrial fauna"
+                          },
+                          {
+                            "text": "Changes in the mortality of terrestrial fauna"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Terrestrial fauna Phenology",
+                        "children": [
+                          {
+                            "text": "Changes in the occurrence of unusual behaviour of terrestrial fauna"
+                          },
+                          {
+                            "text": "Changes in the timing of migration of terrestrial fauna"
+                          },
+                          {
+                            "text": "Changes in the timing of mating, reproduction or hibernation of terrestrial fauna"
+                          },
+                          {
+                            "text": "Changes in the behaviour of insects"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Terrestrial fauna Reproduction",
+                        "children": [
+                          {
+                            "text": "Changes in the number of eggs, pups or offspring of terrestrial fauna"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Terrestrial game spp quality",
+                        "children": [
+                          {
+                            "text": "Changes in the taste of terrestrial fauna"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Terrestrial Wild Flora",
+                    "children": [
+                      {
+                        "text": "Wild flora Abundance",
+                        "children": [
+                          {
+                            "text": "Changes in the abundance or density of wild plant or fungi species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Wild flora species composition (assemblage of species) and vegetation characteristics",
+                        "children": [
+                          {
+                            "text": "Changes in the species composition of vegetation"
+                          },
+                          {
+                            "text": "Changes in the type of vegetation"
+                          },
+                          {
+                            "text": "Changes in the distribution of a given vegetation type"
+                          },
+                          {
+                            "text": "Changes in vegetation height"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Wild flora Distribution (fungi-plants-shrubs-trees)",
+                        "children": [
+                          {
+                            "text": "Changes in the distribution of wild plant or fungi species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Wild flora Invasive Allien Species (fungi-plants-shrubs-trees)",
+                        "children": [
+                          {
+                            "text": "Changes in the abundance of wild plant or fungi species stated as invasive"
+                          },
+                          {
+                            "text": "Changes in the distribution of wild plant or fungi species stated as invasive"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Wild flora Disease/pest/mortality (fungi-plants-shrubs-trees)",
+                        "children": [
+                          {
+                            "text": "Changes in the occurrence of diseases/pests in wild flora"
+                          },
+                          {
+                            "text": "Changes in wild plant or fungi species mortality"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Wild flora Phenology (fungi-plants-shrubs-trees)",
+                        "children": [
+                          {
+                            "text": "Changes in wild plant species flowering time"
+                          },
+                          {
+                            "text": "Changes in wild plant or fungi species fruiting time"
+                          },
+                          {
+                            "text": "Changes in wild plant species´ timing of leaf shedding or growing new leaves"
+                          },
+                          {
+                            "text": "Changes in wild plant species ´behaviour´"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Wild flora Productivity and Quality",
+                        "children": [
+                          {
+                            "text": "Changes in the height of individuals of wild plant or fungi species"
+                          },
+                          {
+                            "text": "Changes in the growth rate of wild plant or fungi species"
+                          },
+                          {
+                            "text": "Change in the productivity of wild plant or fungi species (without further specification)"
+                          },
+                          {
+                            "text": "Changes in the size of plant parts of wild plant species"
+                          },
+                          {
+                            "text": "Changes in the taste of wild plant and fungi species"
+                          },
+                          {
+                            "text": "Changes in the quality of wild plant or fungi species (not further specified)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Land cover change & land degradation",
+                    "children": [
+                      {
+                        "text": "Habitat / Landscape / Ecosystem",
+                        "children": [
+                          {
+                            "text": "Changes in habitat integrity (not further specified)"
+                          },
+                          {
+                            "text": "Changes in land cover (not further specified)"
+                          },
+                          {
+                            "text": "Changes in biodiversity (not further specified)"
+                          },
+                          {
+                            "text": "Changes in ecosystem productivity (not further specified)"
+                          },
+                          {
+                            "text": "Changes in the availability / loss of specific landscape elements (not further specified)"
+                          },
+                          {
+                            "text": "Changes in the level of habitat fragmentation (not further specified)"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Wildfires",
+                        "children": [
+                          {
+                            "text": "Changes in wildfire frequency"
+                          },
+                          {
+                            "text": "Changes in intensity of wildfires"
+                          },
+                          {
+                            "text": "Changes in the scale / extension of wildfires"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Human system",
+                "children": [
+                  {
+                    "text": "Aquaculture (marine and fresh water)",
+                    "children": [
+                      {
+                        "text": "Aquaculture productivity and quality",
+                        "children": [
+                          {
+                            "text": "Changes in productivity in aquaculture (not further specified)"
+                          },
+                          {
+                            "text": "Changes in size of animals in aquaculture"
+                          },
+                          {
+                            "text": "Changes in taste of animals in aquaculture"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Aquaculture Disease/pest/mortality",
+                        "children": [
+                          {
+                            "text": "Changes in frequency of animal disease in aquaculture"
+                          },
+                          {
+                            "text": "Changes in the frequency of animal malformations in aquaculture"
+                          },
+                          {
+                            "text": "Changes in the frequency of parasites in aquaculture"
+                          },
+                          {
+                            "text": "Changes in mortality rates in aquaculture"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Aquaculture Phenology and reproduction",
+                        "children": [
+                          {
+                            "text": "Changes in the occurrence or frequency of unusual animal behavior in aquaculture"
+                          },
+                          {
+                            "text": "Changes in the time of mating or reproduction in aquaculture"
+                          },
+                          {
+                            "text": "Changes in the number of eggs, pups or offspring in aquaculture"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Cultivated plant spp (crops, orchards)",
+                    "children": [
+                      {
+                        "text": "Cultivated spp productivity and quality",
+                        "children": [
+                          {
+                            "text": "Changes in crop productivity / yield"
+                          },
+                          {
+                            "text": "Changes in cultivated species´ fruit size"
+                          },
+                          {
+                            "text": "Changes in the taste of crop species / products"
+                          },
+                          {
+                            "text": "Changes in the quality of crop species / products (not further specified)"
+                          },
+                          {
+                            "text": "Changes in the frequency of successful cropping seasons"
+                          },
+                          {
+                            "text": "Changes in crop growing patterns / crop morphology"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Seed or propagule availability or quality",
+                        "children": [
+                          {
+                            "text": "Changes in the availability of crop seeds or propagules"
+                          },
+                          {
+                            "text": "Changes in the quality of crop seeds or propagules"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Cultivated spp Disease/pest/mortality",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of crop diseases (virus, fungi, bacteria, nematodes, etc)"
+                          },
+                          {
+                            "text": "Changes in the frequency of crop ´pests´ (insects, birds, larvae, etc)"
+                          },
+                          {
+                            "text": "Changes in crop mortality rates"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Cultivated spp Weed (Invasive Alien Species)",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency or occurrence of weed species stated as invasive"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Cultivated spp Phenology and reproduction",
+                        "children": [
+                          {
+                            "text": "Changes in crop flowering time"
+                          },
+                          {
+                            "text": "Changes in crop fruiting time"
+                          },
+                          {
+                            "text": "Changes in crop maturation time"
+                          },
+                          {
+                            "text": "Changes in crop harvesting time"
+                          },
+                          {
+                            "text": "Changes in crop sowing / planting time"
+                          },
+                          {
+                            "text": "Changes in length of crop flowering time"
+                          },
+                          {
+                            "text": "Changes in length of crop fruiting time"
+                          },
+                          {
+                            "text": "Changes in length of crop maturation time"
+                          },
+                          {
+                            "text": "Changes in length of crop harvesting time"
+                          },
+                          {
+                            "text": "Changes in crop suitable cultivation areas"
+                          },
+                          {
+                            "text": "Changes in length of cropping \"season\"  (not further specified)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Pastures and grasslands",
+                    "children": [
+                      {
+                        "text": "Pasture availability and  productivity",
+                        "children": [
+                          {
+                            "text": "Changes in pasture cover, surface or abundance"
+                          },
+                          {
+                            "text": "Changes in pasture productivity"
+                          },
+                          {
+                            "text": "Changes in pasture species´ growth rate"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Pasture spp composition, distribution and quality",
+                        "children": [
+                          {
+                            "text": "Changes in the number of pasture species"
+                          },
+                          {
+                            "text": "Changes in the species composition of pastures"
+                          },
+                          {
+                            "text": "Changes in the quality of pasture (without further specification)"
+                          },
+                          {
+                            "text": "Changes in the abundance of specific pasture species"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Pasture Disease/pest/mortality",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of diseases in pasture species"
+                          },
+                          {
+                            "text": "Changes in the frequency of ´pests´ in pasture species (insects, larvae, etc)"
+                          },
+                          {
+                            "text": "Changes in pasture mortality rates"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Pasture weed  (Invasive Alien Species)",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency or occurrence of species stated as invasive in pastures"
+                          },
+                          {
+                            "text": "Changes in the abundance of plant species in pastures that are toxic or unpalatable for livestock"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Pasture Phenology and reproduction",
+                        "children": [
+                          {
+                            "text": "Changes in pasture species´ timing of vegetative growth"
+                          },
+                          {
+                            "text": "Changes in pasture species´ timing of reproduction"
+                          },
+                          {
+                            "text": "Changes in pasture seed availability"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Livestock",
+                    "children": [
+                      {
+                        "text": "Livestock productivity and quality",
+                        "children": [
+                          {
+                            "text": "Changes in livestock productivity (eg., milk, meat, wool)"
+                          },
+                          {
+                            "text": "Changes in the milking period of livestock"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Livestock disease/pest/mortality",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of livestock disease"
+                          },
+                          {
+                            "text": "Changes in livestock mortality"
+                          },
+                          {
+                            "text": "Changes in the frequency of livestock pest-vector borne diseases (flies, ticks, etc)"
+                          },
+                          {
+                            "text": "Changes in the frequency of parasites in livestock"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Phenology and reproduction",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of livestock mating"
+                          },
+                          {
+                            "text": "Changes in the timing of livestock mating or reproduction"
+                          },
+                          {
+                            "text": "Changes in the number of pups or offspring in livestock"
+                          },
+                          {
+                            "text": "Changes in livestock behaviour"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Human health",
+                    "children": [
+                      {
+                        "text": "Human Diseases",
+                        "children": [
+                          {
+                            "text": "Changes in the incidence of human diseases (flu, allergies, etc)"
+                          },
+                          {
+                            "text": "Change in the incidence of human vector borne diseases (malaria, dengue, etc)"
+                          },
+                          {
+                            "text": "Change in the incidence of human water-born disease"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Human health injuries, physical affection",
+                        "children": [
+                          {
+                            "text": "Changes in the incidence of human health injuries (eg., ice-related accidents, weather inclemency, walking longer distances to water)"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Hunger",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of famine / food shortage episodes"
+                          },
+                          {
+                            "text": "Changes in the number of people affected by hunger"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Conflicts",
+                        "children": [
+                          {
+                            "text": "Changes in the frequency of conflicts over natural resources"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "Cultural/Spiritual/ Identity values",
+                        "children": [
+                          {
+                            "text": "Changes in cultural-identity-spiritual values"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Infrastructure",
+                    "children": [
+                      {
+                        "text": "Transport (e.g. trails)",
+                        "children": [
+                          {
+                            "text": "Changes in frequency of problems with transportation"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+  }
+}

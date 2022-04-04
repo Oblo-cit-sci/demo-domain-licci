@@ -1,0 +1,3113 @@
+{
+  "title": "Clasificación de indicadores",
+  "values": {
+    "levels": [
+      {
+        "text": "Systema",
+        "description": "Selecciona el sistema en el cual se observa el cambio/impacto"
+      },
+      {
+        "text": "Subsystema",
+        "description": "Selecciona uno de estos subsistemas para clasificar la observación. Cambios en..."
+      },
+      {
+        "text": "Climate change impact",
+        "description": "Selecciona el impacto especifico que mejor clasifica el cambio observado"
+      },
+      {
+        "text": "Direction of change",
+        "description": "Selecciona una dirección para el cambio observado"
+      }
+    ],
+    "root": {
+      "text": "30112020_Final simplified LICCI_es",
+      "children": [
+        {
+          "text": "Climatico",
+          "description": "LICCIs relacionados con la temperatura, lluvia, sequía, nubes, humedad, tormentas y estaciones",
+          "children": [
+            {
+              "text": "Temperatura",
+              "children": [
+                {
+                  "text": "media anual",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    },
+                    {
+                      "text": "menos variación"
+                    },
+                    {
+                      "text": "más variación"
+                    }
+                  ]
+                },
+                {
+                  "text": "durante la noche",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "durante el día",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "a lo largo de diferentes alturas",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "inusual en una estación determinada",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "media en una estación determinada",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "días de extremo calor/ frío",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "días calurosos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "días frios",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "olas de calor",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "olas de frío",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "días soleados",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "brillo solar",
+                  "children": [
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Lluvia, nieve y aguanieve",
+              "children": [
+                {
+                  "text": "lluvia",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    },
+                    {
+                      "text": "menos variación"
+                    },
+                    {
+                      "text": "más variación"
+                    },
+                    {
+                      "text": "menos predecible"
+                    },
+                    {
+                      "text": "más predecible"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    },
+                    {
+                      "text": "lluvia temprana"
+                    },
+                    {
+                      "text": "lluvia tardía"
+                    },
+                    {
+                      "text": "cambio en la distribución espacial",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "lluvia en una estación determinada",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    },
+                    {
+                      "text": "menos variación"
+                    },
+                    {
+                      "text": "más variación"
+                    }
+                  ]
+                },
+                {
+                  "text": "agua de lluvia",
+                  "children": [
+                    {
+                      "text": "menos temperatura"
+                    },
+                    {
+                      "text": "más temperatura"
+                    }
+                  ]
+                },
+                {
+                  "text": "días lluviosos",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "fuertes lluvias",
+                  "children": [
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    },
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "inundaciones repentinas",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "periodos húmedos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "periodos secos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "años sin lluvia",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "sequía",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "nevada",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    },
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos variación"
+                    },
+                    {
+                      "text": "más variación"
+                    },
+                    {
+                      "text": "nevada temprana"
+                    },
+                    {
+                      "text": "nevada tardía"
+                    },
+                    {
+                      "text": "cambio en distribución espacial",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "aguanieve o lluvia helada",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    },
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos variación"
+                    },
+                    {
+                      "text": "más variación"
+                    },
+                    {
+                      "text": "aguanieve temprana"
+                    },
+                    {
+                      "text": "aguanieve tardía"
+                    },
+                    {
+                      "text": "cambio en distribución espacial",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nubes, niebla, rocío y escarcha.",
+              "children": [
+                {
+                  "text": "nubes",
+                  "children": [
+                    {
+                      "text": "menos grosor"
+                    },
+                    {
+                      "text": "más grosor"
+                    },
+                    {
+                      "text": "menos tamaño"
+                    },
+                    {
+                      "text": "más tamaño"
+                    },
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    },
+                    {
+                      "text": "cambio de color",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "días nublados",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "niebla",
+                  "children": [
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    },
+                    {
+                      "text": "menos grosor"
+                    },
+                    {
+                      "text": "más grosor"
+                    }
+                  ]
+                },
+                {
+                  "text": "días de niebla",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "humedad del aire",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "rocío",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "días con rocío",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "escarcha",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    },
+                    {
+                      "text": "escarcha temprana"
+                    },
+                    {
+                      "text": "escarcha tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "días escarchados",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Vientro y tormentas",
+              "children": [
+                {
+                  "text": "características del viento",
+                  "children": [
+                    {
+                      "text": "menos fuerza"
+                    },
+                    {
+                      "text": "más fuerza"
+                    },
+                    {
+                      "text": "cambio de dirección",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos temperatura"
+                    },
+                    {
+                      "text": "más temperatura"
+                    }
+                  ]
+                },
+                {
+                  "text": "episodios de viento",
+                  "children": [
+                    {
+                      "text": "vientos tempranos"
+                    },
+                    {
+                      "text": "vientos tardíos"
+                    }
+                  ]
+                },
+                {
+                  "text": "días ventosos",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "tormentas (en general)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "tormentas de viento",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "relámpagos y truenos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "tormentas electricas",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "tormenta de granizos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "tormentas de arena o polvo",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Ciclones y tornados",
+              "children": [
+                {
+                  "text": "ciclones",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "tornados",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Estaciones",
+              "children": [
+                {
+                  "text": "características de la estación",
+                  "children": [
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    },
+                    {
+                      "text": "estación temprana"
+                    },
+                    {
+                      "text": "estación tardía"
+                    },
+                    {
+                      "text": "cambio en transición",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "estación de calor extremo",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "estación de frío extremo",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Físisco",
+          "description": "LICCIs relacionados con los oceanos, costas, lagos, tierras, nieve, hielo y terremotos",
+          "children": [
+            {
+              "text": "Océanos y mares",
+              "children": [
+                {
+                  "text": "nivel del mar",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "características generales del agua",
+                  "children": [
+                    {
+                      "text": "menos temperatura"
+                    },
+                    {
+                      "text": "más temperatura"
+                    },
+                    {
+                      "text": "menos salinidad"
+                    },
+                    {
+                      "text": "más salinidad"
+                    },
+                    {
+                      "text": "menos calidad"
+                    },
+                    {
+                      "text": "más calidad"
+                    },
+                    {
+                      "text": "menos disponibilidad"
+                    },
+                    {
+                      "text": "más disponibilidad"
+                    },
+                    {
+                      "text": "menos contaminación"
+                    },
+                    {
+                      "text": "más contaminación"
+                    },
+                    {
+                      "text": "menos transparencia"
+                    },
+                    {
+                      "text": "más transparencia"
+                    },
+                    {
+                      "text": "cambio de gusto",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "características del agua en una estación determinada",
+                  "children": [
+                    {
+                      "text": "menos temperatura"
+                    },
+                    {
+                      "text": "más temperatura"
+                    }
+                  ]
+                },
+                {
+                  "text": "olas",
+                  "children": [
+                    {
+                      "text": "menos tamaño"
+                    },
+                    {
+                      "text": "más tamaño"
+                    }
+                  ]
+                },
+                {
+                  "text": "mareas",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "inundación costera",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "corrientes",
+                  "children": [
+                    {
+                      "text": "menos fuerza"
+                    },
+                    {
+                      "text": "más fuerza"
+                    },
+                    {
+                      "text": "cambio de dirección",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Costas",
+              "children": [
+                {
+                  "text": "sedimentaicón del suelo",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "erosión del suelo",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "estructura del suelo",
+                  "children": [
+                    {
+                      "text": "cambio de estructura",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Rios / Arroyos",
+              "children": [
+                {
+                  "text": "nivel del agua general",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "nivel del agua estacional",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "características del agua",
+                  "children": [
+                    {
+                      "text": "menos temperatura"
+                    },
+                    {
+                      "text": "más temperatura"
+                    },
+                    {
+                      "text": "menos calidad"
+                    },
+                    {
+                      "text": "más calidad"
+                    },
+                    {
+                      "text": "menos disponibilidad"
+                    },
+                    {
+                      "text": "más disponibilidad"
+                    },
+                    {
+                      "text": "menos contaminación"
+                    },
+                    {
+                      "text": "más contaminación"
+                    },
+                    {
+                      "text": "menos transparencia"
+                    },
+                    {
+                      "text": "más transparencia"
+                    },
+                    {
+                      "text": "menos salinidad"
+                    },
+                    {
+                      "text": "más salinidad"
+                    },
+                    {
+                      "text": "cambio de gusto",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "fluctuación estacional del nivel del agua",
+                  "children": [
+                    {
+                      "text": "fluctuación temprana del nivel de agua"
+                    },
+                    {
+                      "text": "fluctuación tardía del nivel de agua"
+                    },
+                    {
+                      "text": "menos velocidad"
+                    },
+                    {
+                      "text": "más velocidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "numero de ríos/arroyos",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "número de piscinas/pozos fluviales",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Areas inundadas / humedales",
+              "children": [
+                {
+                  "text": "episodios de inundación de ríos/lagos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "área inundable del río",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    }
+                  ]
+                },
+                {
+                  "text": "área inundable del lago",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    }
+                  ]
+                },
+                {
+                  "text": "área de humedal",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Fuentes / manantiales",
+              "children": [
+                {
+                  "text": "flujo de agua",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "número de fuentes/manantiales",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Lagos / estanques",
+              "children": [
+                {
+                  "text": "nivel del agua",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "características del agua",
+                  "children": [
+                    {
+                      "text": "menos temperatura"
+                    },
+                    {
+                      "text": "más temperatura"
+                    },
+                    {
+                      "text": "menos calidad"
+                    },
+                    {
+                      "text": "más calidad"
+                    },
+                    {
+                      "text": "menos disponibilidad"
+                    },
+                    {
+                      "text": "más disponibilidad"
+                    },
+                    {
+                      "text": "menos contaminación"
+                    },
+                    {
+                      "text": "más contaminación"
+                    },
+                    {
+                      "text": "menos transparencia"
+                    },
+                    {
+                      "text": "más transparencia"
+                    },
+                    {
+                      "text": "menos salinidad"
+                    },
+                    {
+                      "text": "más salinidad"
+                    },
+                    {
+                      "text": "cambio de gusto",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "número de lagos/estanques",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "lagos/estanques temporales",
+                  "children": [
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "fluctuación estacional del nivel de agua",
+                  "children": [
+                    {
+                      "text": "fluctuación tempranal del nivel agua"
+                    },
+                    {
+                      "text": "fluctuación tardía del nivel agua"
+                    },
+                    {
+                      "text": "menos velocidad"
+                    },
+                    {
+                      "text": "más velocidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Aguas subterráneas",
+              "children": [
+                {
+                  "text": "nivel freático",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "recarga de acuíferos",
+                  "children": [
+                    {
+                      "text": "menos velocidad"
+                    },
+                    {
+                      "text": "más velocidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Márgenes de rios / lagos",
+              "children": [
+                {
+                  "text": "erosión del suelo",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    },
+                    {
+                      "text": "cambio de ubicación",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "sedimentación del suelo",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    },
+                    {
+                      "text": "cambio de ubicación",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Tierra y suelos (interior)",
+              "children": [
+                {
+                  "text": "erosión por lluvia",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "erosión por viento",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "sedimentación",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "humedad",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "evaporación de agua",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "infiltración de agua",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "características del suelo",
+                  "children": [
+                    {
+                      "text": "menos temperatura"
+                    },
+                    {
+                      "text": "más temperatura"
+                    },
+                    {
+                      "text": "menos degradación"
+                    },
+                    {
+                      "text": "más degradación"
+                    },
+                    {
+                      "text": "menos fertilidad"
+                    },
+                    {
+                      "text": "más fertilidad"
+                    },
+                    {
+                      "text": "menos productividad"
+                    },
+                    {
+                      "text": "más productividad"
+                    },
+                    {
+                      "text": "cambio de textura",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "organismos vivos (biota) del suelo",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Deslizamientos de tierra, terremotos y tsunamis",
+              "children": [
+                {
+                  "text": "deslizamiento de tierra",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "terremoto",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "tsunami",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Cobertura de hielo y nieve",
+              "children": [
+                {
+                  "text": "cobertura de nieve permanente",
+                  "children": [
+                    {
+                      "text": "cambio de textura",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos profundidad"
+                    },
+                    {
+                      "text": "más profundidad"
+                    },
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    }
+                  ]
+                },
+                {
+                  "text": "cobertura de nieve temporal",
+                  "children": [
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "hielo en ríos/lagos",
+                  "children": [
+                    {
+                      "text": "cambio de estructura",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "cambio de textura",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos grosor"
+                    },
+                    {
+                      "text": "más grosor"
+                    },
+                    {
+                      "text": "menos derretimiento"
+                    },
+                    {
+                      "text": "más derretimiento"
+                    }
+                  ]
+                },
+                {
+                  "text": "hielo en mar",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    },
+                    {
+                      "text": "menos grosor"
+                    },
+                    {
+                      "text": "más grosor"
+                    }
+                  ]
+                },
+                {
+                  "text": "glaciares",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    }
+                  ]
+                },
+                {
+                  "text": "icebergs",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    },
+                    {
+                      "text": "cambio de movimiento",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "suelo congelado permanente",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    },
+                    {
+                      "text": "cambio de continuidad",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos profundidad"
+                    },
+                    {
+                      "text": "más profundidad"
+                    },
+                    {
+                      "text": "menos derretimiento"
+                    },
+                    {
+                      "text": "más derretimiento"
+                    }
+                  ]
+                },
+                {
+                  "text": "eventos de congelamiento",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "derretimiento de hielo",
+                  "children": [
+                    {
+                      "text": "menos velocidad"
+                    },
+                    {
+                      "text": "más velocidad"
+                    },
+                    {
+                      "text": "derretimiento temprano"
+                    },
+                    {
+                      "text": "derretimiento tardío"
+                    }
+                  ]
+                },
+                {
+                  "text": "formación de hielo",
+                  "children": [
+                    {
+                      "text": "menos velocidad"
+                    },
+                    {
+                      "text": "más velocidad"
+                    },
+                    {
+                      "text": "formación del hielo temprana"
+                    },
+                    {
+                      "text": "formación del hielo tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "cobertura de hielo (en general)",
+                  "children": [
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    },
+                    {
+                      "text": "menos estabilidad/resistencia"
+                    },
+                    {
+                      "text": "más estabilidad/resistencia"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Biológico",
+          "description": "LICCIs relacionados con los seres vivos (excepto humanos) y su medio ambiente.",
+          "children": [
+            {
+              "text": "Especies silvestres marinas",
+              "children": [
+                {
+                  "text": "características de las especies",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    },
+                    {
+                      "text": "cambio de composición",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "cambio de distribución",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos tamaño"
+                    },
+                    {
+                      "text": "más tamaño"
+                    },
+                    {
+                      "text": "menos mortalidad"
+                    },
+                    {
+                      "text": "más mortalidad"
+                    },
+                    {
+                      "text": "cambio de comportamiento",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "cambio de gusto",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos blanqueamiento"
+                    },
+                    {
+                      "text": "más blanqueamiento"
+                    }
+                  ]
+                },
+                {
+                  "text": "especies invasoras",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    }
+                  ]
+                },
+                {
+                  "text": "parásitos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "malformaciones",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "migración",
+                  "children": [
+                    {
+                      "text": "cambio de ruta",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "migración temprana"
+                    },
+                    {
+                      "text": "migración tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "huevos, crías, descendencia",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "apareamiento/reproducción",
+                  "children": [
+                    {
+                      "text": "apareamiento/reproducción temprana"
+                    },
+                    {
+                      "text": "apareamiento/reproducción tardía"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Especies silvestres de agua dulce",
+              "children": [
+                {
+                  "text": "características de las especies",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    },
+                    {
+                      "text": "cambio de composición",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "cambio de distribución",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos tamaño"
+                    },
+                    {
+                      "text": "más tamaño"
+                    },
+                    {
+                      "text": "menos mortalidad"
+                    },
+                    {
+                      "text": "más mortalidad"
+                    },
+                    {
+                      "text": "cambio de comportamiento",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "cambio de gusto",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "especies invasoras",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    }
+                  ]
+                },
+                {
+                  "text": "parásitos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "malformaciones",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "migración",
+                  "children": [
+                    {
+                      "text": "cambio de ruta",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "migración temprana"
+                    },
+                    {
+                      "text": "migración tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "huevos, crías, descendencia",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "apareamiento/reproducción",
+                  "children": [
+                    {
+                      "text": "apareamiento/reproducción temprana"
+                    },
+                    {
+                      "text": "apareamiento/reproducción tardía"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Especies silvestres terrestres",
+              "children": [
+                {
+                  "text": "características de las especies",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    },
+                    {
+                      "text": "cambio de composición",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "cambio de distribución",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos tamaño"
+                    },
+                    {
+                      "text": "más tamaño"
+                    },
+                    {
+                      "text": "menos mortalidad"
+                    },
+                    {
+                      "text": "más mortalidad"
+                    },
+                    {
+                      "text": "cambio de gusto",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "cambio de comportamiento",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos altura"
+                    },
+                    {
+                      "text": "más altura"
+                    },
+                    {
+                      "text": "menos tasa de crecimiento"
+                    },
+                    {
+                      "text": "más tasa de crecimiento"
+                    },
+                    {
+                      "text": "menos productividad"
+                    },
+                    {
+                      "text": "más productividad"
+                    },
+                    {
+                      "text": "menos calidad"
+                    },
+                    {
+                      "text": "más calidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "especies invasoras",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    },
+                    {
+                      "text": "cambio de distribución",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "migración",
+                  "children": [
+                    {
+                      "text": "cambio de ruta",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "migración temprana"
+                    },
+                    {
+                      "text": "migración tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "comportamiento inusual",
+                  "children": [
+                    {
+                      "text": "menos casos"
+                    },
+                    {
+                      "text": "más casos"
+                    }
+                  ]
+                },
+                {
+                  "text": "apareamiento, reproducción, hibernación",
+                  "children": [
+                    {
+                      "text": "apareamiento, reproducción, hibernación temprano"
+                    },
+                    {
+                      "text": "apareamiento, reproducción, hibernación tardío"
+                    }
+                  ]
+                },
+                {
+                  "text": "huevos, crías, descendencia",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades y plagas (en general)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos casos"
+                    },
+                    {
+                      "text": "más casos"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades transmitidas por insectos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "malformaciones",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "vegetación en general",
+                  "children": [
+                    {
+                      "text": "cambio de composición",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "cambio de tipo",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos altura"
+                    },
+                    {
+                      "text": "más altura"
+                    }
+                  ]
+                },
+                {
+                  "text": "floración",
+                  "children": [
+                    {
+                      "text": "floración temprana"
+                    },
+                    {
+                      "text": "floración tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "fructificación",
+                  "children": [
+                    {
+                      "text": "fructificación temprana"
+                    },
+                    {
+                      "text": "fructificación tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "caída de hojas",
+                  "children": [
+                    {
+                      "text": "caída de hojas temprana"
+                    },
+                    {
+                      "text": "caída hojas tardía"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Ecosistemas / cambios en el paisaje",
+              "children": [
+                {
+                  "text": "cambios en el ecosistema",
+                  "children": [
+                    {
+                      "text": "menos integridad"
+                    },
+                    {
+                      "text": "más integridad"
+                    },
+                    {
+                      "text": "menos fragmentación"
+                    },
+                    {
+                      "text": "más fragmentación"
+                    },
+                    {
+                      "text": "menos productividad"
+                    },
+                    {
+                      "text": "más productividad"
+                    }
+                  ]
+                },
+                {
+                  "text": "uso de suelo (p.ej., pastizales, bosques, campos, áreas urbanas, etc.)",
+                  "children": [
+                    {
+                      "text": "cambio de características",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "biodiversidad (diversidad de especies biológicas)",
+                  "children": [
+                    {
+                      "text": "menos nivel"
+                    },
+                    {
+                      "text": "más nivel"
+                    }
+                  ]
+                },
+                {
+                  "text": "elementos del paisaje",
+                  "children": [
+                    {
+                      "text": "menos disponibilidad"
+                    },
+                    {
+                      "text": "más disponibilidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "incendios forestales",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos intensidad"
+                    },
+                    {
+                      "text": "más intensidad"
+                    },
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Social/económico/cultural",
+          "description": "LICCIs relacionados con la actividad humana (agricultura, ganadería, sociedad y cultura)",
+          "children": [
+            {
+              "text": "Acuicultura (marina y de agua dulce)",
+              "children": [
+                {
+                  "text": "características de las especies producidas",
+                  "children": [
+                    {
+                      "text": "menos productividad"
+                    },
+                    {
+                      "text": "más productividad"
+                    },
+                    {
+                      "text": "menos tamaño"
+                    },
+                    {
+                      "text": "más tamaño"
+                    },
+                    {
+                      "text": "cambio de gusto",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos mortalidad"
+                    },
+                    {
+                      "text": "más mortalidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "malformaciones",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "parásitos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "comportamiento animal inusual",
+                  "children": [
+                    {
+                      "text": "menos casos"
+                    },
+                    {
+                      "text": "más casos"
+                    }
+                  ]
+                },
+                {
+                  "text": "apareamiento o reproducción",
+                  "children": [
+                    {
+                      "text": "apareamiento o reproducción temprana"
+                    },
+                    {
+                      "text": "apareamiento o reproducción tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "huevos, crias o descendencia",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Agricultura (cultivos, frutales)",
+              "children": [
+                {
+                  "text": "características de cultivos",
+                  "children": [
+                    {
+                      "text": "menos productividad"
+                    },
+                    {
+                      "text": "más productividad"
+                    },
+                    {
+                      "text": "cambio de gusto",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos calidad"
+                    },
+                    {
+                      "text": "más calidad"
+                    },
+                    {
+                      "text": "cambio de morfología",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos mortalidad"
+                    },
+                    {
+                      "text": "más mortalidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "frutos",
+                  "children": [
+                    {
+                      "text": "menos tamaño"
+                    },
+                    {
+                      "text": "más tamaño"
+                    }
+                  ]
+                },
+                {
+                  "text": "semillas",
+                  "children": [
+                    {
+                      "text": "menos disponibilidad"
+                    },
+                    {
+                      "text": "más disponibilidad"
+                    },
+                    {
+                      "text": "menos calidad"
+                    },
+                    {
+                      "text": "más calidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades de cultivos (virus, hongos, etc.)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "cambio de tipo",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "plagas de cultivos (insectos, aves, etc)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "especies invasoras (malezas)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "temporada de cultivo",
+                  "children": [
+                    {
+                      "text": "menos éxito"
+                    },
+                    {
+                      "text": "más éxito"
+                    },
+                    {
+                      "text": "menos longitud"
+                    },
+                    {
+                      "text": "más longitud"
+                    }
+                  ]
+                },
+                {
+                  "text": "floración de cultivos",
+                  "children": [
+                    {
+                      "text": "floración temprana del cultivo"
+                    },
+                    {
+                      "text": "floración tardía del cultivo"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "maduración de cultivos",
+                  "children": [
+                    {
+                      "text": "maduración temprana del cultivo"
+                    },
+                    {
+                      "text": "maduración tardía del cultivo"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "cosecha de cultivos",
+                  "children": [
+                    {
+                      "text": "cosecha de cultivos temprana"
+                    },
+                    {
+                      "text": "cosecha de cultivos tardía"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "siembra de cultivos",
+                  "children": [
+                    {
+                      "text": "siembra de cultivos temprana"
+                    },
+                    {
+                      "text": "siembra de cultivos tardía"
+                    }
+                  ]
+                },
+                {
+                  "text": "fructificación de cultivos",
+                  "children": [
+                    {
+                      "text": "fructifricación de cultivos temprana"
+                    },
+                    {
+                      "text": "fructificación de cultivos tadía"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "areas aptas para cultivo",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Pastizales cultivados / manejados",
+              "children": [
+                {
+                  "text": "cobertura de pastizales",
+                  "children": [
+                    {
+                      "text": "menos extensión"
+                    },
+                    {
+                      "text": "más extensión"
+                    }
+                  ]
+                },
+                {
+                  "text": "características de especies de pastizales",
+                  "children": [
+                    {
+                      "text": "menos productividad"
+                    },
+                    {
+                      "text": "más productividad"
+                    },
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    },
+                    {
+                      "text": "cambio de composición",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    },
+                    {
+                      "text": "menos calidad"
+                    },
+                    {
+                      "text": "más calidad"
+                    },
+                    {
+                      "text": "menos mortalidad"
+                    },
+                    {
+                      "text": "más mortalidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "crecimiento de pastizales",
+                  "children": [
+                    {
+                      "text": "menos velocidad"
+                    },
+                    {
+                      "text": "más velocidad"
+                    },
+                    {
+                      "text": "crecimiento de pasto temprano"
+                    },
+                    {
+                      "text": "crecimiento de pasto tardío"
+                    }
+                  ]
+                },
+                {
+                  "text": "reproducción de pastizales",
+                  "children": [
+                    {
+                      "text": "reproducción de pasto temprano"
+                    },
+                    {
+                      "text": "reproducción de pasto tardío"
+                    }
+                  ]
+                },
+                {
+                  "text": "semillas",
+                  "children": [
+                    {
+                      "text": "menos disponibilidad"
+                    },
+                    {
+                      "text": "más disponibilidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "especies invasoras",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    }
+                  ]
+                },
+                {
+                  "text": "especies tóxicas",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "plagas (insectos, larvas, etc)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Producción animal / ganadería",
+              "children": [
+                {
+                  "text": "características de los animales",
+                  "children": [
+                    {
+                      "text": "menos productividad"
+                    },
+                    {
+                      "text": "más productividad"
+                    },
+                    {
+                      "text": "menos mortalidad"
+                    },
+                    {
+                      "text": "más mortalidad"
+                    },
+                    {
+                      "text": "cambio de comportamiento",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "periodo de ordeño",
+                  "children": [
+                    {
+                      "text": "ordeño temprano"
+                    },
+                    {
+                      "text": "ordeño tardío"
+                    },
+                    {
+                      "text": "menos duración"
+                    },
+                    {
+                      "text": "más duración"
+                    }
+                  ]
+                },
+                {
+                  "text": "apareamiento",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "apareamiento temprano"
+                    },
+                    {
+                      "text": "apareamiento tardío"
+                    }
+                  ]
+                },
+                {
+                  "text": "crías o descendencia",
+                  "children": [
+                    {
+                      "text": "menos cantidad"
+                    },
+                    {
+                      "text": "más cantidad"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades (en general)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "cambio de tipo",
+                      "extra": {
+                        "text": "Nombra la dirección"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades transmitidas por insectos (moscas, garrapatas, etc.)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "parásitos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Salud humana",
+              "children": [
+                {
+                  "text": "enfermedades en general (gripes, alergias, etc.)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades transmitidas por insectos (malaria, dengue etc)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "enfermedades transmitidas por agua (cholera etc.)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "lesiones (p. ej., accidentes relacionados con el hielo, inclemencias climáticas, caminar largas distancias al agua)",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                },
+                {
+                  "text": "hambruna/ escasez de alimentos",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    },
+                    {
+                      "text": "menos hambre/escasez alimentos"
+                    },
+                    {
+                      "text": "más hambre/escasez alimentos"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Conflictos",
+              "children": [
+                {
+                  "text": "relacionado con los recursos naturales",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Cultura y sistemas de creencias",
+              "children": [
+                {
+                  "text": "valores culturales / espirituales",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    },
+                    {
+                      "text": "menos importancia"
+                    },
+                    {
+                      "text": "más importancia"
+                    }
+                  ]
+                },
+                {
+                  "text": "expresiones/actos culturales/rituales",
+                  "children": [
+                    {
+                      "text": "menos abundancia"
+                    },
+                    {
+                      "text": "más abundancia"
+                    },
+                    {
+                      "text": "menos importancia"
+                    },
+                    {
+                      "text": "más importancia"
+                    },
+                    {
+                      "text": "expresiones / actuaciones culturales / espirituales tempranas"
+                    },
+                    {
+                      "text": "expresiones / actuaciones culturales / espirituales tardías"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Infraestructura",
+              "children": [
+                {
+                  "text": "problemas de transporte",
+                  "children": [
+                    {
+                      "text": "menos frecuencia"
+                    },
+                    {
+                      "text": "más frecuencia"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

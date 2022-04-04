@@ -1,0 +1,170 @@
+{
+  "title": "Koeppen geiger climate classification",
+  "values": {
+    "levels": [
+      "Main group",
+      "Seasonal precipitation",
+      "Level of heat"
+    ],
+    "root": {
+      "text": "Koeppen geiger climate classification",
+      "children": [
+        {
+          "text": "Tropical",
+          "children": [
+            {
+              "text": "Rainforest"
+            },
+            {
+              "text": "Monsoon"
+            },
+            {
+              "text": "savannah"
+            }
+          ]
+        },
+        {
+          "text": "Arid",
+          "children": [
+            {
+              "text": "desert",
+              "children": [
+                {
+                  "text": "hot"
+                },
+                {
+                  "text": "cold"
+                }
+              ]
+            },
+            {
+              "text": "steppe",
+              "children": [
+                {
+                  "text": "hot"
+                },
+                {
+                  "text": "cold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Temperate",
+          "children": [
+            {
+              "text": "dry summer",
+              "children": [
+                {
+                  "text": "hot summer"
+                },
+                {
+                  "text": "warm summer"
+                },
+                {
+                  "text": "cold summer"
+                }
+              ]
+            },
+            {
+              "text": "dry winter",
+              "children": [
+                {
+                  "text": "hot summer"
+                },
+                {
+                  "text": "warm summer"
+                },
+                {
+                  "text": "cold summer"
+                }
+              ]
+            },
+            {
+              "text": "no dry season",
+              "children": [
+                {
+                  "text": "hot summer"
+                },
+                {
+                  "text": "warm summer"
+                },
+                {
+                  "text": "cold summer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Cold",
+          "children": [
+            {
+              "text": "dry summer",
+              "children": [
+                {
+                  "text": "hot summer"
+                },
+                {
+                  "text": "warm summer"
+                },
+                {
+                  "text": "cold summer"
+                },
+                {
+                  "text": "very cold winter"
+                }
+              ]
+            },
+            {
+              "text": "dry winter",
+              "children": [
+                {
+                  "text": "hot summer"
+                },
+                {
+                  "text": "warm summer"
+                },
+                {
+                  "text": "cold summer"
+                },
+                {
+                  "text": "very cold winter"
+                }
+              ]
+            },
+            {
+              "text": "no dry season",
+              "children": [
+                {
+                  "text": "hot summer"
+                },
+                {
+                  "text": "warm summer"
+                },
+                {
+                  "text": "cold summer"
+                },
+                {
+                  "text": "very cold winter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Polar",
+          "children": [
+            {
+              "text": "tundra"
+            },
+            {
+              "text": "frost"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

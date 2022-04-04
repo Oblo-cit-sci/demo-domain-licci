@@ -1,0 +1,186 @@
+{
+  "template": {
+    "slug": "value_tree"
+  },
+  "values": {
+    "levels": [
+      {
+        "value":"main group"
+      },
+      {
+        "value":"seasonal precipitation"
+      },
+      {
+        "value":"level of heat"
+      }
+    ],
+    "root": {
+      "value": "Kgc",
+      "children": [
+        {
+          "value": "A",
+          "children": [
+            {
+              "value": "Af"
+            },
+            {
+              "value": "Am"
+            },
+            {
+              "value": "Aw"
+            }
+          ]
+        },
+        {
+          "value": "B",
+          "children": [
+            {
+              "value": "BW",
+              "children": [
+                {
+                  "value": "BWh"
+                },
+                {
+                  "value": "BWk"
+                }
+              ]
+            },
+            {
+              "value": "BS",
+              "children": [
+                {
+                  "value": "BSh"
+                },
+                {
+                  "value": "BSk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "C",
+          "children": [
+            {
+              "value": "Cs",
+              "children": [
+                {
+                  "value": "Csa"
+                },
+                {
+                  "value": "Csb"
+                },
+                {
+                  "value": "Csc"
+                }
+              ]
+            },
+            {
+              "value": "Cw",
+              "children": [
+                {
+                  "value": "Cwa"
+                },
+                {
+                  "value": "Cwb"
+                },
+                {
+                  "value": "Cwc"
+                }
+              ]
+            },
+            {
+              "value": "Cf",
+              "children": [
+                {
+                  "value": "Cfa"
+                },
+                {
+                  "value": "Cfb"
+                },
+                {
+                  "value": "Cfc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "D",
+          "children": [
+            {
+              "value": "Ds",
+              "children": [
+                {
+                  "value": "Dsa"
+                },
+                {
+                  "value": "Dsb"
+                },
+                {
+                  "value": "Dsc"
+                },
+                {
+                  "value": "Dsd"
+                }
+              ]
+            },
+            {
+              "value": "Dw",
+              "children": [
+                {
+                  "value": "Dwa"
+                },
+                {
+                  "value": "Dwb"
+                },
+                {
+                  "value": "Dwc"
+                },
+                {
+                  "value": "Dwd"
+                }
+              ]
+            },
+            {
+              "value": "Df",
+              "children": [
+                {
+                  "value": "Dfa"
+                },
+                {
+                  "value": "Dfb"
+                },
+                {
+                  "value": "Dfc"
+                },
+                {
+                  "value": "Dfd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "E",
+          "children": [
+            {
+              "value": "ET"
+            },
+            {
+              "value": "EF"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rules": {
+    "tags": {
+      "from_tree": {
+        "levels": ["main group"],
+        "remain_hierarchy": true
+      }
+    }
+  }
+}

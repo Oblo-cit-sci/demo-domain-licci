@@ -1,0 +1,162 @@
+{
+  "name": "licci",
+  "index": 1,
+  "default_language": "en",
+  "content": {
+    "search": {
+      "default_templates": [
+        "local_observation"
+      ]
+    },
+    "filters": {
+      "prominent_filters": [
+        {
+          "name": "System-filter",
+          "aspect": {
+            "name": "Systems",
+            "type": "multiselect",
+            "attr": {
+              "edit_component": "new-grid-select",
+              "no_border": true,
+              "no_text": true,
+              "max_cell_width": 80
+            },
+            "items": [
+              {
+                "value": "climate",
+                "icon": "assets/domains/licci/systems/system_climatic.png",
+                "merge": [
+                  {
+                    "from_tree": {
+                      "tree": "licci_tree",
+                      "select": "children[0]",
+                      "layers": [
+                        2,
+                        3
+                      ]
+                    }
+                  },
+                  {
+                    "from_tree": {
+                      "tree": "general_licci_tree",
+                      "select": "children[0]",
+                      "layers": [
+                        1
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "value": "physical",
+                "merge": [
+                  {
+                    "from_tree": {
+                      "tree": "licci_tree",
+                      "select": "children[1]",
+                      "layers": [
+                        2,
+                        3
+                      ]
+                    }
+                  },
+                  {
+                    "from_tree": {
+                      "tree": "general_licci_tree",
+                      "select": "children[1]",
+                      "layers": [
+                        1
+                      ]
+                    }
+                  }
+                ],
+                "icon": "assets/domains/licci/systems/system_physical.png"
+              },
+              {
+                "value": "biological",
+                "merge": [
+                  {
+                    "from_tree": {
+                      "tree": "licci_tree",
+                      "select": "children[2]",
+                      "layers": [
+                        2,
+                        3
+                      ]
+                    }
+                  },
+                  {
+                    "from_tree": {
+                      "tree": "general_licci_tree",
+                      "select": "children[2]",
+                      "layers": [
+                        1
+                      ]
+                    }
+                  }
+                ],
+                "icon": "assets/domains/licci/systems/system_biological.png"
+              },
+              {
+                "value": "human",
+                "merge": [
+                  {
+                    "from_tree": {
+                      "tree": "licci_tree",
+                      "select": "children[3]",
+                      "layers": [
+                        2,
+                        3
+                      ]
+                    }
+                  },
+                  {
+                    "from_tree": {
+                      "tree": "general_licci_tree",
+                      "select": "children[3]",
+                      "layers": [
+                        1
+                      ]
+                    }
+                  }
+                ],
+                "icon": "assets/domains/licci/systems/system_human.png"
+              }
+            ]
+          },
+          "search_config": {
+            "name": "tags",
+            "source_name": "domain",
+            "edit": {
+              "visible": false
+            }
+          }
+        }
+      ]
+    },
+    "map": {
+      "layers": [
+        "Climate types",
+        {
+          "value": "group:Place labels, place-labels"
+        }
+      ],
+      "default_active_layers": [
+        "region-labels"
+      ],
+      "init_map_options": {
+
+      }
+    },
+    "required_entries": [
+      "local_observation"
+    ],
+    "users": {
+      "profile": {
+        "additional_aspects": [
+
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "LICCI",
+  "content": {
+    "description": "Local Indicators of Climate Change Impacts - The Contribution of Local Knowledge to Climate Change Research",
+    "long_title": "Local Indicators of Climate Change Impacts",
+    "filters": {
+      "prominent_filters": [
+        {
+          "aspect": {
+            "label": "Systems",
+            "items": [
+              "climate",
+              "physical",
+              "biological",
+              "human"
+            ],
+            "description": "Select entries reporting impacts from these systems"
+          }
+        }
+      ]
+    },
+    "users": {
+      "profile": {
+        "additional_aspects": [
+
+        ]
+      }
+    },
+    "map": {
+      "layers": [
+        "Climate types",
+        "Region labels",
+        "Indigenous territories"
+      ]
+    },
+    "about": [
+      {
+        "h1": "About LICCI"
+      },
+      {
+        "h2": "Goals and Background",
+        "p": [
+          "LICCI (<a href='https://licci.eu' target='_blank'>https://licci.eu/</a>) is a research project that wants to bring insights from local knowledge to climate research and policy. To do that, LICCI documents and classifies local observations of climate change impacts (e.g., changes in rainfall patterns or impacts of weather changes on wild animal abundance). LICCI has used Oblo technology to create the <a href='https://opentek.eu' target='_blank'>OpenTEK platform</a>"
+        ]
+      },
+      {
+        "h2": "Data sovereignty notice",
+        "p": ["<div id='doc' class='markdown-body container-fluid comment-enabled' data-hard-breaks='true'><h1 id='Recognition-of-Indigenous-peoples-interests' data-id='Recognition-of-Indigenous-peoples-interests'><span>Recognition of Indigenous peoples interests</span></h1><p><span>The data in OpenTEK is a mix of Indigenous and local observations and scientific interpretations of these. We recognize that this information might be subject to specific data protection rights and should be managed following the CARE principles of Indigenous data governance. In this line, we have decided to place the (Local Contexts) notices here to support the recognition of Indigenous interests and that will function as place-holders on OpenTEK data until TK or a BC Labels are added by the community to individual entries.</span></p><p><strong><span>TK Notice</span></strong></p><p><img src='https://localcontexts.org/wp-content/uploads/2020/11/TK-BLACK-NOTICE-20-AUG-2020.png' alt='' width='80'></p><p><span>The TK Notice is a visible notification that there are accompanying cultural rights and responsibilities that need further attention for any future sharing and use of this material. The TK Notice may indicate that TK Labels are in development and their implementation is being negotiated. </span><a href='https://localcontexts.org/notice/tk-notice/' target='_blank' rel='noopener'><span>For more information about TK Notices click here.</span></a></p><p><strong><span>BC Notice</span></strong></p><p><img src='https://localcontexts.org/wp-content/uploads/2020/11/BC-BLACK-NOTICE-20-AUG-2020.png' alt='' width='80'></p><p><span>The BC (Biocultural) Notice is a visible notification that there are accompanying cultural rights and responsibilities that need further attention for any future sharing and use of this material or data. The BC Notice recognizes the rights of Indigenous peoples to permission the use of information, collections, data and digital sequence information generated from the biodiversity or genetic resources associated with traditional lands, waters, and territories. The BC Notice may indicate that BC  Labels are in development and their implementation is being negotiated. </span><a href='https://localcontexts.org/notice/bc-notice/' target='_blank' rel='noopener'><span>For more information about the BC Notices click here.</span></a></p><p><strong><span>Attribution incomplete</span></strong></p><p><img src='https://localcontexts.org/wp-content/uploads/2020/11/ci_notice_attribution_incomplete.png' alt='' width='80'></p><p><span>Collections and items in our institution have incomplete, inaccurate, and/or missing attribution. We are using this notice to clearly identify this material so that it can be updated, or corrected by communities of origin. Our institution is committed to collaboration and partnerships to address this problem of incorrect or missing attribution. </span><a href='https://localcontexts.org/notice/attribution-incomplete/' target='_blank' rel='noopener'><span>For more information about the Attribution incomplete click here.</span></a></p><p><strong><span>Open to collaborate</span></strong></p><p><img src='https://localcontexts.org/wp-content/uploads/2020/11/ci_notice_open_to_collaborate.png' alt='' width='80'></p><p><span>Our institution is committed to the development of new modes of collaboration, engagement, and partnership for the care and stewardship of past and future heritage collections.</span></p><p><span>We actively interact with the global indigenous data alliance and those working on people improving indigenous people rights in general and in digital space.</span><br><span>If you in any way want to contribute completing brining indigenous peoples words to any of the shown content please get in touch. </span><a href='https://localcontexts.org/notice/open-to-collaborate/' target='_blank' rel='noopener'><span>For more information about the Open to collaborate click here.</span></a></p></div>"]
+      }
+    ],
+    "guidelines": {
+      "domain": {
+        "welcome": [
+          "Welcome!",
+          "Welcome to the citizen science platform of the project LICCI!",
+          "You can read everything about the project and how to use it in our <a href='https://hackmd.io/@opentek/overview' target='_blank'>user guidelines.</a>. It also includes guidelines on how to install OpenTEK on your mobile.",
+          "<b>Updates:</b>",
+          "- More elaborate questions regarding the observer in the local observation",
+          "- Added language: Catalan"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "LICCI",
+  "content": {
+    "long_title": "Indicadores locales de los impactos del cambio climático",
+    "description": "Indicadores locales de los impactos del cambio climático: la contribución del conocimiento local a la investigación sobre el cambio climático",
+    "users": {
+      "profile": {
+        "additional_aspects": [
+
+        ]
+      }
+    },
+    "search": {},
+    "filters": {
+      "prominent_filters": [
+        {
+          "aspect": {
+            "label": "Sistemas",
+            "description": "Selecciona las contribuciones que reflejan impactos de estos sistemas",
+            "items": [
+              {
+                "text": "clima"
+              },
+              {
+                "text": "físico"
+              },
+              {
+                "text": "biológico"
+              },
+              {
+                "text": "humano"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "map": {
+      "layers": [
+        {
+          "text": "Tipos de clima"
+        },
+        {
+          "text": "Etiquetas de región"
+        },
+        {
+          "text": "Territorios indígena"
+        }
+      ]
+    },
+    "about": [
+      {
+        "h1": "Sobre LICCI"
+      },
+      {
+        "h2": "Objetivos y antecedentes",
+        "p": [
+          "LICCI  (<a href='https://licci.eu' taget='_blank'>https://licci.eu/</a>)  pretende incorporar el conocimiento local a la ciéncia y políticas climáticas. Para ello, LICCI documenta y clasifica observaciones locales de los impactos del cambio climático (e.j., cambios en los patrones de lluvia o impactos de cambios meteorológicos en la abundance de especies animales)."
+        ]
+      }
+    ],
+    "guidelines": {
+      "domain": {
+        "welcome": [
+          "Bienvenidos!",
+          "Bienvenidos a la plataforma de ciencia ciudadana del proyecto LICCI!"
+        ]
+      }
+    }
+  }
+}

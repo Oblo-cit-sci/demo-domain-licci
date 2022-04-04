@@ -1,0 +1,191 @@
+{
+  "title": "Observación local",
+  "description": "Observación de un indicador local de impacto del cambio climático",
+  "aspects": [
+    {
+      "label": "Título ",
+      "description": "Nombre corto para la observación"
+    },
+    {
+      "label": "Observación",
+      "description": "Describe la observación"
+    },
+    {
+      "label": "Observer",
+      "description": "Who made the observation?",
+      "items": [
+        {
+          "text":"Only me"
+        },
+        {
+          "text": "Somebody else"
+        }
+      ]
+    },
+    {
+      "label": "Other observers",
+      "items": [
+        {
+          "text": "One person"
+        },
+        {
+          "text": "Multiple persons"
+        },
+        {
+          "text": "External source"
+        }
+      ]
+    },
+    {
+      "label": "How would you best identify the other person?",
+      "items": [
+        {
+          "text": "No information on the person"
+        },
+        {
+          "text": "Researcher/Academic/Faculty"
+        },
+        {
+          "text": "Practitioner (NGO, government, consultant, etc)"
+        },
+        {
+          "text": "Representative/member of Indigenous Peoples or ethnic community"
+        },
+        {
+          "text": "Local person with a connection to nature (e.g., fisherman, hunter, farmer, shepherd) "
+        },
+        {
+          "text": "Lay citizen (none of the above) "
+        }
+      ]
+    },
+    {
+      "label": "How would you identify them?",
+      "items": [
+        {
+          "text": "No information on the person"
+        },
+        {
+          "text": "Researcher/Academic/Faculty"
+        },
+        {
+          "text": "Practitioner (NGO, government, consultant, etc)"
+        },
+        {
+          "text": "Representative/member of Indigenous Peoples or ethnic community"
+        },
+        {
+          "text": "Local person with a connection to nature (e.g., fisherman, hunter, farmer, shepherd) "
+        },
+        {
+          "text": "Lay citizen (none of the above) "
+        }
+      ]
+    },
+    {
+      "label": "External source"
+    },
+    {
+      "label": "Clasificación de la observación",
+      "description": "Por favor, clasifica la observación"
+    },
+    {
+      "label": "Imágenes",
+      "description": "Añade imágenes a tu observación"
+    },
+    {
+      "components": [
+        {
+          "list_items": {
+            "label": "Causas"
+          },
+          "label": "Causas de tipo cambio climático",
+          "description": "Seleccione los impactos del cambio climático que impulsan / causan esta observación. Tenga en cuenta que no se requieren los mismos detalles que para la clasificación de observación. Basta con seleccionar uno de los sistemas principales."
+        },
+        {
+          "label": "Otros factores/causas",
+          "description": "¿Qué otros factores hay? (por ejemplo, cambios provocados por el hombre como la deforestación).",
+          "attr": {
+            "default_view_text": "no hay causas especificadas"
+          }
+        }
+      ],
+      "label": "Causas del cambio",
+      "description": "Enumera las causas de este cambio que conoce (factores que hacen que el cambio ocurra) . Distinguimos entre causas de dos tipos. Una lista de causas que son impactos del cambio climático y una lista de otros factores/causas."
+    },
+    {
+      "list_items": {
+        "components": [
+          {
+            "items": [
+              {
+                "text": "animal"
+              },
+              {
+                "text": "planta"
+              },
+              {
+                "text": "hongo"
+              },
+              {
+                "text": "bacterias/otros"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "text": "mamífero"
+              },
+              {
+                "text": "pájaro"
+              },
+              {
+                "text": "anfibio"
+              },
+              {
+                "text": "pez"
+              },
+              {
+                "text": "insecto"
+              },
+              {
+                "text": "otros "
+              }
+            ],
+            "label": "Subcategorias de especies"
+          },
+          {
+
+            "items": [
+              {
+                "text": "leñoso"
+              },
+              {
+                "text": "no leñoso"
+              }
+            ],
+            "label": "Subcategorías de especies"
+          },
+          {
+            "label": "Nombre local"
+          },
+          {
+            "label": "Nombre científico "
+          }
+        ],
+        "label": "Especies"
+      },
+      "label": "Especies afectadas",
+      "description": "¿Qué especies estan afectadas por esta observación?"
+    },
+    {
+      "label": "Ubicación",
+      "description": ""
+    },
+    {
+      "label": "Zona climática"
+    }
+  ],
+  "values": {}
+}

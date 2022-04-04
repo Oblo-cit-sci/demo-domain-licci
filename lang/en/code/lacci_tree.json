@@ -1,0 +1,1390 @@
+{
+  "title": "LACCI tree",
+  "values": {
+    "levels": [
+      {
+        "text": "Sector"
+      },
+      {
+        "text": "Domain"
+      },
+      {
+        "text": "Type"
+      },
+      {
+        "text": "Description"
+      }
+    ],
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in practicing agriculture/forestry as a livelihood"
+                    },
+                    {
+                      "text": "Changes in the ratio of agriculture:forestry"
+                    }
+                  ],
+                  "text": "Livelihood system"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in commercial trading/income in agriculture/forestry"
+                    },
+                    {
+                      "text": "Changes in insurance for agriculture/forestry"
+                    },
+                    {
+                      "text": "Changes in financial support, remittance, loans, credits, borrows in agriculture/forestry"
+                    }
+                  ],
+                  "text": "Income"
+                }
+              ],
+              "text": "Practiced livelihood system"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the timing of seasonal cultivation activities"
+                    }
+                  ],
+                  "text": "Timing"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the duration of seasonal cultivation activities"
+                    }
+                  ],
+                  "text": "Duration"
+                }
+              ],
+              "text": "Time management"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (close-by) of cultivation activities"
+                    },
+                    {
+                      "text": "Changes in the spatial distribution of cultivation plots"
+                    },
+                    {
+                      "text": "Changes in the rotation of cultivated plots (incl. fallow practices)"
+                    }
+                  ],
+                  "text": "Relocation (close-by)"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (far-away) of cultivation activities"
+                    }
+                  ],
+                  "text": "Migration"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in practicing of swidden/shifting agriculture"
+                    }
+                  ],
+                  "text": "Mobility"
+                }
+              ],
+              "text": "Location"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the total cultivated area"
+                    },
+                    {
+                      "text": "Changes in the planting density/seeding rate"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in crop & tree species composition"
+                    },
+                    {
+                      "text": "Changes in crop & tree variety/landrace composition"
+                    },
+                    {
+                      "text": "Changes in the type & quality of seeds"
+                    },
+                    {
+                      "text": "Changes in gardening/owning of orchards"
+                    },
+                    {
+                      "text": "Changes in multiple cropping practices (incl. agroforestry)"
+                    },
+                    {
+                      "text": "Changes in crop rotation"
+                    },
+                    {
+                      "text": "Changes in the cropping system/pattern (unspecified)"
+                    }
+                  ],
+                  "text": "Composition"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance of seeds/seedlings"
+                    }
+                  ],
+                  "text": "Type & origin"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of agricultural/forestry products for non-food & non-feed use or not specified use (e.g., seed, wood)"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Livelihood product"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the quantity of fertilizer"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance (i.e., type & origin) of fertilizer"
+                    }
+                  ],
+                  "text": "Type & origin"
+                }
+              ],
+              "text": "Resource input: Fertilizer & Nutritions"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of edible cultivated products"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Food"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the quantity of pesticide"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance (i.e., type & origin) of pesticide"
+                    }
+                  ],
+                  "text": "Type & origin"
+                }
+              ],
+              "text": "Resource input: Pesticide"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in general water demand in agriculture/forestry (e.g., irrigation)"
+                    },
+                    {
+                      "text": "Changes in water demand due to changes in water conservation/use efficiency practices in agriculture/forestry"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance of water (i.e., water sources)"
+                    }
+                  ],
+                  "text": "Type & origin"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in water transport facilities"
+                    },
+                    {
+                      "text": "Changes in drainage facilities"
+                    }
+                  ],
+                  "text": "Transport (facilities)"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of water (incl. rainwater harvesting)"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Water"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in following a holistic farming system"
+                    },
+                    {
+                      "text": "Changes in tillage/ploughing practices"
+                    },
+                    {
+                      "text": "Changes in mulching/ground cover practices"
+                    },
+                    {
+                      "text": "Changes in ridge/bed (& strip) planting practices"
+                    },
+                    {
+                      "text": "Changes in re-planting/re-sowing"
+                    },
+                    {
+                      "text": "Changes in weeding practices"
+                    },
+                    {
+                      "text": "Changes in slope/contour/terrace cultivation (incl. soil bunds)"
+                    },
+                    {
+                      "text": "Changes in the management of on-field crop residues"
+                    },
+                    {
+                      "text": "Changes in soil (structure) conservation practices (unspecified)"
+                    },
+                    {
+                      "text": "Changes in breeding/seeding/planting methods"
+                    },
+                    {
+                      "text": "Changes in other cultivation practices (incl. precaution)"
+                    },
+                    {
+                      "text": "Changes in the extent of technology, gear & materials"
+                    }
+                  ],
+                  "text": "Methods & technology"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the use of weather observation, monitoring & forecast (incl. early warning)"
+                    },
+                    {
+                      "text": "Changes in the use of other environmental observation, monitoring & mapping (excl. weather forecast)"
+                    }
+                  ],
+                  "text": "Observation, monitoring & planning"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the exploitation of natural resources (e.g., access regulation)"
+                    },
+                    {
+                      "text": "Changes in re-/ afforestation/tree & grass plantings (other than agroforestry)"
+                    }
+                  ],
+                  "text": "Natural ecosystems"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the maintenance/construction/material of shelters (e.g., greenhouses)"
+                    },
+                    {
+                      "text": "Changes in technical barriers (e.g., dams)"
+                    }
+                  ],
+                  "text": "Built construction"
+                }
+              ],
+              "text": "Practices & techniques"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in education, awareness training, information & knowledge sharing in cultivation"
+                    }
+                  ],
+                  "text": "Knowledge & gender roles"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in social relationships & reciprocity"
+                    },
+                    {
+                      "text": "Changes in the culture, tradition & spirituality"
+                    },
+                    {
+                      "text": "Changes in (in)formal community networks, community pooling, collective actions"
+                    },
+                    {
+                      "text": "Changes in external networks, dependency & support"
+                    },
+                    {
+                      "text": "Changes in the institutional/political organisation & participation (incl. legislation)"
+                    }
+                  ],
+                  "text": "Social networks & relations"
+                }
+              ],
+              "text": "Capacity building (human & social capital)"
+            }
+          ],
+          "text": "Cultivation (agriculture, forestry)"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in practicing livestock husbandry as a livelihood"
+                    }
+                  ],
+                  "text": "Livelihood system"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in commercial trading/income in livestock rearing"
+                    },
+                    {
+                      "text": "Changes in insurance for livestock husbandry"
+                    }
+                  ],
+                  "text": "Income"
+                }
+              ],
+              "text": "Practiced livelihood system"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the timing of seasonal livestock activities"
+                    }
+                  ],
+                  "text": "Timing"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the duration of seasonal livestock activities"
+                    }
+                  ],
+                  "text": "Duration"
+                }
+              ],
+              "text": "Time management"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (close-by) of livestock husbandry"
+                    },
+                    {
+                      "text": "Changes in the spatial distribution of pastures/enclosures"
+                    },
+                    {
+                      "text": "Changes in the rotation of pasture/enclosures (e.g., for fallow)"
+                    }
+                  ],
+                  "text": "Relocation (close-by)"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (far-away) of livestock husbandry"
+                    }
+                  ],
+                  "text": "Migration"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in local mobility (e.g., grazing control through fencing)"
+                    },
+                    {
+                      "text": "Changes in practicing transhumance or similar seasonal movements"
+                    }
+                  ],
+                  "text": "Mobility"
+                }
+              ],
+              "text": "Location"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the total grazing area"
+                    },
+                    {
+                      "text": "Changes in the total number of livestock"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in livestock species composition"
+                    },
+                    {
+                      "text": "Changes in livestock breeding/landrace composition"
+                    },
+                    {
+                      "text": "Changes in practicing mixed/complementary grazing"
+                    }
+                  ],
+                  "text": "Composition"
+                }
+              ],
+              "text": "Livelihood product"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the composition of fodder"
+                    }
+                  ],
+                  "text": "Composition"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance of fodder (other than grazing)"
+                    }
+                  ],
+                  "text": "Type & origin"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of fodder"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Feed"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of edible livestock products"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Food"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the quantity of medical treatment of livestock"
+                    }
+                  ],
+                  "text": "Demand"
+                }
+              ],
+              "text": "Resource input: Medicine / Antibiotics"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in general water demand for livestock"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance of water (i.e., water sources)"
+                    }
+                  ],
+                  "text": "Type & origin"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the water transportation facilities"
+                    }
+                  ],
+                  "text": "Transport (facilities)"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of water (incl. rainwater harvesting)"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Water"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in other livestock breeding & husbandry practices (incl. precaution)"
+                    },
+                    {
+                      "text": "Changes in the extent of technology, gear & materials"
+                    }
+                  ],
+                  "text": "Methods & technology"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the use of other environmental observation, monitoring & mapping (excluding weather forecast)"
+                    }
+                  ],
+                  "text": "Observation, monitoring & planning"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the exploitation of natural resources (e.g., access regulation)"
+                    }
+                  ],
+                  "text": "Natural ecosystems"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the maintenance/construction/material of shelters (e.g., stables)"
+                    }
+                  ],
+                  "text": "Built construction"
+                }
+              ],
+              "text": "Practices & techniques"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in (in)formal community networks, community pooling, collective actions"
+                    },
+                    {
+                      "text": "Changes in the institutional/political organisation & participation, incl. regulations"
+                    }
+                  ],
+                  "text": "Social networks & relations"
+                }
+              ],
+              "text": "Capacity building (human & social capital)"
+            }
+          ],
+          "text": "Livestock husbandry"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in practicing fishing as a livelihood"
+                    }
+                  ],
+                  "text": "Livelihood system"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in commercial trading/income in fishing"
+                    }
+                  ],
+                  "text": "Income"
+                }
+              ],
+              "text": "Practiced livelihood system"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the timing of seasonal fishing activities"
+                    }
+                  ],
+                  "text": "Timing"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the duration of seasonal fishing activities"
+                    }
+                  ],
+                  "text": "Duration"
+                }
+              ],
+              "text": "Time management"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (close-by) of fishing activities (same water type)"
+                    },
+                    {
+                      "text": "Changes in the spatial distribution of fishing grounds"
+                    }
+                  ],
+                  "text": "Relocation (close-by)"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (further away) of fishing activities (same water type)"
+                    }
+                  ],
+                  "text": "Migration"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in seasonal migration following seasonal fishing grounds"
+                    }
+                  ],
+                  "text": "Mobility"
+                }
+              ],
+              "text": "Location"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the quantity of catches from fishing"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in fish & aquatic non-fish species composition"
+                    }
+                  ],
+                  "text": "Composition"
+                }
+              ],
+              "text": "Livelihood product"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of edible fishing products"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Food"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in boat-based fishing"
+                    },
+                    {
+                      "text": "Changes in (other) fishing methods/tools"
+                    },
+                    {
+                      "text": "Changes in the use of navigation devices (e.g., GPS)"
+                    },
+                    {
+                      "text": "Changes in other fishing practices (incl. precaution)"
+                    },
+                    {
+                      "text": "Changes in the extent of technology, gear & materials"
+                    }
+                  ],
+                  "text": "Methods & technology"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the exploitation of natural resources (e.g., access regulation)"
+                    },
+                    {
+                      "text": "Changes in other protection/restoration measures of natural ecosystems in fishing activities"
+                    }
+                  ],
+                  "text": "Natural ecosystems"
+                }
+              ],
+              "text": "Practices & techniques"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in social relationships & individual-based reciprocity"
+                    },
+                    {
+                      "text": "Changes in (in)formal community networks, community pooling, collective actions"
+                    },
+                    {
+                      "text": "Changes in the institutional/political organisation & participation, incl. regulations"
+                    }
+                  ],
+                  "text": "Social networks & relations"
+                }
+              ],
+              "text": "Capacity building (human & social capital)"
+            }
+          ],
+          "text": "Fishing"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in practicing aquaculture as a livelihood"
+                    }
+                  ],
+                  "text": "Livelihood system"
+                }
+              ],
+              "text": "Practiced livelihood system"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the timing of seasonal aquaculture activities"
+                    }
+                  ],
+                  "text": "Timing"
+                }
+              ],
+              "text": "Time management"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in fish & aquatic non-fish species composition"
+                    }
+                  ],
+                  "text": "Composition"
+                }
+              ],
+              "text": "Livelihood product"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in water transport facilities"
+                    },
+                    {
+                      "text": "Changes in drainage facilities"
+                    }
+                  ],
+                  "text": "Transport (facilities)"
+                }
+              ],
+              "text": "Resource input: Water"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in other aquaculture practices (incl. precaution)"
+                    }
+                  ],
+                  "text": "Methods & technology"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the maintenance/construction/material of shelters"
+                    }
+                  ],
+                  "text": "Built construction"
+                }
+              ],
+              "text": "Practices & techniques"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in (in)formal community networks, community pooling, collective actions"
+                    }
+                  ],
+                  "text": "Social networks & relations"
+                }
+              ],
+              "text": "Capacity building (human & social capital)"
+            }
+          ],
+          "text": "Aquaculture"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in practicing hunting/gathering as a livelihood"
+                    }
+                  ],
+                  "text": "Livelihood system"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in commercial trading/income in hunting/gathering activities"
+                    }
+                  ],
+                  "text": "Income"
+                }
+              ],
+              "text": "Practiced livelihood system"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the timing of seasonal hunting/gathering activities"
+                    }
+                  ],
+                  "text": "Timing"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the duration of seasonal hunting/gathering activities"
+                    },
+                    {
+                      "text": "Changes in the duration of daily hunting/gathering activities"
+                    }
+                  ],
+                  "text": "Duration"
+                }
+              ],
+              "text": "Time management"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (close-by) of hunting/gathering activities,  incl. avoiding certain areas"
+                    }
+                  ],
+                  "text": "Relocation (close-by)"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (far-away) of hunting/gathering activities"
+                    }
+                  ],
+                  "text": "Migration"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in local mobility (e.g., path network)"
+                    }
+                  ],
+                  "text": "Mobility"
+                }
+              ],
+              "text": "Location"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the quantity of gathered products"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the composition of gathered plant species"
+                    },
+                    {
+                      "text": "Changes in the composition of hunted/gathered animal species"
+                    }
+                  ],
+                  "text": "Composition"
+                }
+              ],
+              "text": "Livelihood product"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of fishing products for food use"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Food"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in boat-based hunting/gathering"
+                    },
+                    {
+                      "text": "Changes in (other) aquaculture methods/tools"
+                    },
+                    {
+                      "text": "Changes in the use of vehicles"
+                    },
+                    {
+                      "text": "Changes in the use of navigation devices (e.g., GPS)"
+                    },
+                    {
+                      "text": "Changes in other hunting/gathering practices (incl. precaution)"
+                    }
+                  ],
+                  "text": "Methods & technology"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the exploitation of natural resources (e.g., access regulation)"
+                    }
+                  ],
+                  "text": "Natural ecosystems"
+                }
+              ],
+              "text": "Practices & techniques"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in (in)formal community networks, community pooling, collective actions"
+                    },
+                    {
+                      "text": "Changes in the institutional/political organisation & participation (incl. regulations)"
+                    }
+                  ],
+                  "text": "Social networks & relations"
+                }
+              ],
+              "text": "Capacity building (human & social capital)"
+            }
+          ],
+          "text": "Hunting / Gathering"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in other (low) natural resource-dependent livelihood & income"
+                    },
+                    {
+                      "text": "Changes in other non-natural resource dependent livelihood & income (unspecified)"
+                    },
+                    {
+                      "text": "Changes in financial support, remittance, loans, credits, borrows"
+                    },
+                    {
+                      "text": "Changes in other financial capital (e.g., savings)"
+                    }
+                  ],
+                  "text": "Income"
+                }
+              ],
+              "text": "Practiced livelihood system"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the timing of other seasonal activities"
+                    }
+                  ],
+                  "text": "Timing"
+                }
+              ],
+              "text": "Time management"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (close-by) of other activities, persons or materials"
+                    }
+                  ],
+                  "text": "Relocation (close-by)"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the relocation (far-away) (incl. evacuation) of other activities (incl. evacuation)"
+                    }
+                  ],
+                  "text": "Migration"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in local mobility (e.g., road infrastructure)"
+                    },
+                    {
+                      "text": "Changes in nomadic lifestyle, excl. transhumance & swidden agriculture"
+                    }
+                  ],
+                  "text": "Mobility"
+                }
+              ],
+              "text": "Location"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the quantity of food consumption"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in food composition/diet"
+                    }
+                  ],
+                  "text": "Composition"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance of food"
+                    }
+                  ],
+                  "text": "Type & origin"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of processed/purchased food"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Food"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the quantity of human medical treatment"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance (i.e., type) of human medicine & health treatment"
+                    }
+                  ],
+                  "text": "Type & origin"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of medicine"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Medicine / Antibiotics"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in general water demand in other activities"
+                    },
+                    {
+                      "text": "Changes in water demand due to changes in water conservation/use efficiency practices in other activities"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance of water (i.e., water sources)"
+                    }
+                  ],
+                  "text": "Type & origin"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the water transportation facilities in housing"
+                    },
+                    {
+                      "text": "Changes in drainage facilities"
+                    }
+                  ],
+                  "text": "Transport (facilities)"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of water (incl. rainwater harvesting)"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Water"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in other resource demand (e.g., energy)"
+                    },
+                    {
+                      "text": "Changes in the use efficiency of other resources (e.g., energy)"
+                    }
+                  ],
+                  "text": "Demand"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the provenance of other resources (e.g., energy)"
+                    }
+                  ],
+                  "text": "Type & origin"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the storage of other resources (e.g., energy supplies)"
+                    }
+                  ],
+                  "text": "Storage (facilities)"
+                }
+              ],
+              "text": "Resource input: Energy and others"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in protective measures against diseases (e.g., use of mosquito net, suncream. water filter)"
+                    },
+                    {
+                      "text": "Changes in emergency action, aid & recovery"
+                    },
+                    {
+                      "text": "Changes in other activities (incl. precaution)"
+                    },
+                    {
+                      "text": "Changes in the extent of technology, gear & materials"
+                    }
+                  ],
+                  "text": "Methods & technology"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the use of weather observation, monitoring & forecast (incl. early warning)"
+                    },
+                    {
+                      "text": "Changes in the use of other environmental observation, monitoring & mapping (incl. climate impacts)"
+                    },
+                    {
+                      "text": "Changes in the planning & preparation of future actions"
+                    }
+                  ],
+                  "text": "Observation, monitoring & planning"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the exploitation of natural resources (e.g., access regulation)"
+                    },
+                    {
+                      "text": "Changes in re-/ afforestation/tree & grass plantings"
+                    },
+                    {
+                      "text": "Changes in other protection/restoration measures of natural ecosystems"
+                    }
+                  ],
+                  "text": "Natural ecosystems"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in the the maintenance/construction/material of housing/shelters"
+                    },
+                    {
+                      "text": "Changes in technical barriers (e.g., dams)"
+                    }
+                  ],
+                  "text": "Built construction"
+                }
+              ],
+              "text": "Practices & techniques"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Changes in education, awareness training, information & knowledge sharing"
+                    },
+                    {
+                      "text": "Changes in the gender & family member roles"
+                    },
+                    {
+                      "text": "Changes in labour force in other activities"
+                    }
+                  ],
+                  "text": "Knowledge & gender roles"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Changes in social relationships & household/individual-based reciprocity"
+                    },
+                    {
+                      "text": "Changes in the culture, tradition & spirituality"
+                    },
+                    {
+                      "text": "Changes in (in)formal community networks, community pooling, collective actions"
+                    },
+                    {
+                      "text": "Changes in external networks, dependency & support"
+                    },
+                    {
+                      "text": "Changes in the institutional/political organisation & participation (incl. regulations)"
+                    }
+                  ],
+                  "text": "Social networks & relations"
+                }
+              ],
+              "text": "Capacity building (human & social capital)"
+            }
+          ],
+          "text": "Other activities"
+        }
+      ],
+      "text": "20210603_COSUST_LACCI-Tree_updated"
+    }
+  }
+}
+

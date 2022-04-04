@@ -1,0 +1,371 @@
+{
+  "aspects": [
+    {
+      "name": "Title",
+      "type": "str",
+      "attr": {
+        "max": 90
+      }
+    },
+    {
+      "name": "Observation",
+      "type": "str",
+      "attr": {
+        "max": 1000
+      }
+    },
+    {
+      "name": "Observer",
+      "type": "select",
+      "items": [
+        {
+          "value": "only me"
+        },
+        {
+          "value": "somebody else"
+        }
+      ]
+    },
+    {
+      "name": "other observers",
+      "type": "multiselect",
+      "attr": {
+        "hide_on_disabled": true,
+        "condition": {
+          "aspect": "$.Observer",
+          "value": [
+            "somebody else"
+          ],
+          "compare": "contains"
+        }
+      },
+      "items": [
+        {
+          "value": "one person",
+          "condition": {
+            "exclude": [
+              "multiple persons"
+            ]
+          }
+        },
+        {
+          "value": "multiple persons",
+          "condition": {
+            "exclude": [
+              "one person"
+            ]
+          }
+        },
+        {
+          "value": "external source"
+        }
+      ]
+    },
+    {
+      "name": "identify one person",
+      "type": "multiselect",
+      "attr": {
+        "hide_on_disabled": true,
+        "condition": {
+          "aspect": "$.[other observers]",
+          "value": "one person",
+          "compare": "contains"
+        }
+      },
+      "items": [
+        {
+          "value": "no info"
+        },
+        {
+          "value": "researcher"
+        },
+        {
+          "value": "practitioner"
+        },
+        {
+          "value": "representative of indigenous p. or ethnic community"
+        },
+        {
+          "value": "local person with connection to nature"
+        },
+        {
+          "value": "lay citizen"
+        }
+      ]
+    },
+    {
+      "name": "identify multiple persons",
+      "type": "multiselect",
+      "attr": {
+        "hide_on_disabled": true,
+        "condition": {
+          "aspect": "$.other observers",
+          "value": "multiple persons",
+          "compare": "contains"
+        }
+      },
+      "items": [
+        {
+          "value": "no info"
+        },
+        {
+          "value": "researcher"
+        },
+        {
+          "value": "practitioner"
+        },
+        {
+          "value": "representative of indigenous p. or ethnic community"
+        },
+        {
+          "value": "local person with connection to nature"
+        },
+        {
+          "value": "lay citizen"
+        }
+      ]
+    },
+    {
+      "name": "external source",
+      "type": "str",
+      "attr": {
+        "hide_on_disabled": true,
+        "max": 90,
+        "view_component": "url",
+        "condition": {
+          "aspect": "$.other observers",
+          "value": "external source",
+          "compare": "contains"
+        }
+      }
+    },
+    {
+      "name": "Observation classification",
+      "type": "tree",
+      "attr": {
+        "direct_select": false,
+        "allow_select_levels": [
+          3,
+          4
+        ],
+        "tree_select_mode": [
+          "large_list",
+          "matrix",
+          "list",
+          "list"
+        ],
+        "tag": {
+          "name": "impact",
+          "subpath": "$.value[1].value"
+        },
+        "required": false
+      },
+      "items": "general_licci_tree"
+    },
+    {
+      "name": "images",
+      "type": "images",
+      "attr": {
+        "required": false
+      }
+    },
+    {
+      "name": "Drivers of change",
+      "type": "composite",
+      "attr": {
+        "required": false
+      },
+      "components": [
+        {
+          "name": "Climate change drivers",
+          "type": "list",
+          "attr": {
+            "hide_on_disabled": true
+          },
+          "list_items": {
+            "name": "driver",
+            "type": "tree",
+            "attr": {
+              "direct_select": false,
+              "allow_select_levels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "edit": [
+                "large_list",
+                "matrix",
+                "list",
+                "list"
+              ]
+            },
+            "items": "general_licci_tree"
+          }
+        },
+        {
+          "name": "Other driving factors",
+          "type": "list",
+          "list_items": {
+            "name": "driver",
+            "type": "str",
+            "attr": {
+              "max": 90
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Species affected",
+      "type": "list",
+      "attr": {
+        "hide_on_disabled": true,
+        "condition": {
+          "aspect": "$.Observation classification.value.0",
+          "value": "Biological",
+          "default_pass": false
+        }
+      },
+      "list_items": {
+        "name": "Species",
+        "type": "composite",
+        "attr": {
+          "add_components_as_conditionals": true,
+          "titleComponent": [
+            "Local name",
+            "animal subcategory",
+            "plant subcategory",
+            "Species category"
+          ]
+        },
+        "components": [
+          {
+            "name": "Species category",
+            "type": "select",
+            "attr": {},
+            "items": [
+              "animal",
+              "plant",
+              "fungi",
+              "bacteria/other"
+            ]
+          },
+          {
+            "name": "animal subcategory",
+            "type": "select",
+            "attr": {
+              "hide_on_disabled": true,
+              "condition": {
+                "aspect": "$.Species category",
+                "value": "animal"
+              }
+            },
+            "items": [
+              "mammal",
+              "bird",
+              "amphibians",
+              "fish",
+              "insects",
+              "other"
+            ]
+          },
+          {
+            "name": "plant subcategory",
+            "type": "select",
+            "attr": {
+              "hide_on_disabled": true,
+              "condition": {
+                "aspect": "$.Species category",
+                "value": "plant"
+              }
+            },
+            "items": [
+              "woody",
+              "non-woody"
+            ]
+          },
+          {
+            "name": "Local name",
+            "type": "str",
+            "attr": {
+              "max": 90,
+              "required": false
+            }
+          },
+          {
+            "name": "Scientific name",
+            "type": "str",
+            "attr": {
+              "max": 90,
+              "required": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "location",
+      "type": "location",
+      "attr": {
+        "cache": true,
+        "input": [
+          "device",
+          "map",
+          "search"
+        ],
+        "output": [
+          "place",
+          "location"
+        ],
+        "action": {
+          "type": "api-query",
+          "name": "koeppen-geiger-classification",
+          "trigger": {
+            "type": "auto"
+          },
+          "properties": {
+            "query_url": "/api/basic/plugin?plugin_name=koeppgen_geiger_classification",
+            "method": "post",
+            "value_emit": "content",
+            "handle_result": {
+              "type": "assign_to_aspect",
+              "aspect": "$.Climate zone"
+            }
+          }
+        }
+      },
+      "view": {
+        "show_value": false,
+        "actions": [
+          "goto_location"
+        ]
+      }
+    },
+    {
+      "name": "Climate zone",
+      "type": "tree",
+      "attr": {
+        "direct_select": false,
+        "visible": false,
+        "required": false,
+        "tag": {
+          "name": "climate zone",
+          "subpath": "$.value[0].value"
+        }
+      },
+      "items": "climatic_zones"
+    }
+  ],
+  "rules": {
+    "locationAspect": "$.location",
+    "titleAspect": "$.Title",
+    "marker_color": "#AA0000",
+    "preview": {
+    },
+    "requires_review_if_missing": [
+      "Observation classification.value"
+    ]
+  },
+  "slug": "local_observation"
+}
